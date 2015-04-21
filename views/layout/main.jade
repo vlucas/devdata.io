@@ -4,10 +4,10 @@ html(lang="en")
     meta(charset="utf-8")
     meta(http-equiv="X-UA-Compatible", content="IE=edge")
     meta(name="viewport", content="width=device-width, initial-scale=1.0")
-    meta(name="keywords", content="email verification, email validation, email deliverability")
-    meta(name="description", content="Increase your mail deliverability. Stop accepting junk emails on your signup forms and mailing lists.")
+    meta(name="keywords", content="dev data, developer data, states list, countries list, list of states, list of countries")
+    meta(name="description", content="Developer data")
     link(rel="shortcut icon", href="/assets/ico/favicon.png")
-    title DataClip
+    title DevData - Data For Developers
     // Bootstrap core CSS
     link(href="/assets/css/bootstrap.css", rel="stylesheet")
     // Custom styles for this template
@@ -26,7 +26,7 @@ html(lang="en")
             span.icon-bar
             span.icon-bar
           a.navbar-brand(href="/")
-            | Data<span>Clip</span>
+            | Dev<span>Data</span>
         .navbar-collapse.collapse
           ul.nav.navbar-nav.navbar-right
             li
@@ -43,7 +43,8 @@ html(lang="en")
                 .alert(class='alert-' + message.type)
                   p= message.message
                 - delete flash[index]
-          block content
+          .content
+            block content
 
     #foot
       .container
