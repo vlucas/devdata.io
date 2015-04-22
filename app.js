@@ -3,6 +3,9 @@
 // NPM
 var fs = require('fs');
 
+// Lib
+var converter = require('./lib/converter');
+
 // Express
 var express = require('express');
 var router = express.Router();
@@ -42,13 +45,13 @@ datasets.forEach(function(dataset) {
 
     // Show error if set and break
     if (errMsg) {
-      return res.json({ status: 'error', message: errMsg }, 400);
+      return res.status(400).json({ status: 'error', message: errMsg });
     }
 
     // Read data from JSON file
     fs.readFile(__dirname + '/datasets/' + dataset + '.json', function readFileDataClosure (err, data) {
       if (err) {
-        return res.json({ status: 'error', message: 'Server error: Unable to read source data file' }, 500);
+        return res.status(500).json({ status: 'error', message: 'Server error: Unable to read source data file' });
       }
 
       // Format data for specified programming language
@@ -56,9 +59,9 @@ datasets.forEach(function(dataset) {
       var dataLang;
       var jsonData = JSON.parse(data);
 
-      dataLang = convertJSONToLang(req.query.lang, jsonData);
+      dataLang = converter.jsonToLang(jsonData, req.query.lang);
       if (!dataLang) {
-        return res.json({ status: 'error', message: 'Unsupported lang' }, 400);
+        return res.status(400).json({ status: 'error', message: 'Unsupported lang' });
       }
 
       res.json({
@@ -71,83 +74,9 @@ datasets.forEach(function(dataset) {
 
 
 /**
- * Perform JSON conversion to target language
- */
-function convertJSONToLang(lang, json) {
-  var dataFormatted = '';
-  var formatMap = {
-    php: {
-      hashStart: '[',
-      hashEnd: ']',
-      hashRow: "'%s' => '%s'",
-      hashRowEnd: ",\n"
-    }
-  };
-
-  switch(lang) {
-    case 'json':
-      dataFormatted = JSON.stringify(json);
-      break;
-
-    default:
-      var format = formatMap[lang];
-      if (!format) {
-        return false;
-      }
-
-      dataFormatted += format.hashStart;
-
-      if (typeof json == "array") {
-        var jsonLen = json.length;
-        for(var key = 0; key < jsonLen; key++) {
-          var value = json[key];
-          var valueType = typeof value;
-
-          // Recursive
-          if (valueType == "array" || valueType == "object") {
-            value = convertJSONToLang(lang, value);
-          } else if (valueType == "string") {
-            value = "'" + value + "'";
-          }
-
-          dataFormatted += "'" + key + "' => " + value;
-          if (jsonLen != key) {
-            dataFormatted += format.hashRowEnd;
-          }
-        };
-      }
-      else if (typeof json == "object") {
-        var jsonLen = Object.keys(json).length;
-        var i = 0;
-        for(var key in json) {
-          i++;
-          var value = json[key];
-          var valueType = typeof value;
-
-          // Recursive
-          if (valueType == "array" || valueType == "object") {
-            value = convertJSONToLang(lang, value);
-          } else if (valueType == "string") {
-            value = "'" + value + "'";
-          }
-
-          dataFormatted += "'" + key + "' => " + value;
-          if (jsonLen != i) {
-            dataFormatted += format.hashRowEnd;
-          }
-        };
-      }
-
-      dataFormatted += format.hashEnd;
-  }
-
-  return dataFormatted;
-}
-
-/**
  * Start Server
  */
-var port = process.env.PORT || 1337;
+var port = process.env.PORT || 1338;
 var server = app.listen(port, function() {
   console.log('Express server started at http://localhost:%d', server.address().port);
 });
