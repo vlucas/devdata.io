@@ -13,7 +13,7 @@ var router = express.Router();
 /**
  * Config
  */
-var supportedFormats = ['json', 'php'];
+var supportedFormats = ['json', 'php', 'ruby'];
 var datasets = ['states', 'countries', 'currencies'];
 
 /**

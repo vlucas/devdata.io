@@ -4,16 +4,75 @@ block content
   h2 What Data Do You Need?
 
   .col-sm-3
-    .list-group
-      a.list-group-item(href="#") U.S. States
-      a.list-group-item(href="#") World Countries
-      a.list-group-item(href="#") World Currencies
+    .list-group.dataset-selection
+      a.list-group-item(href="#" data-dataset="states") U.S. States
+      a.list-group-item(href="#" data-dataset="countries") World Countries
+      a.list-group-item(href="#" data-dataset="currencies") World Currencies
 
   .col-sm-9
     .panel.panel-default
       .panel-body
-        p Heyooo!
+        .btn-group.dataset-lang(data-toggle='buttons')
+          label.btn.btn-default.active
+              input#lang-json(type='radio', name='lang', autocomplete='off', checked='' value='json')
+              | JSON
+            label.btn.btn-default
+              input#lang-php(type='radio', name='lang', autocomplete='off' value='php')
+              | PHP
+            label.btn.btn-default
+              input#lang-ruby(type='radio', name='lang', autocomplete='off' value='ruby')
+              | Ruby
+        .dataset-result
+          .message
+            p Heyooo!
+          .highlight
+            pre
+              code.code
 
 block append js
   script.
-    // no script here!
+
+    // Language to request code for
+    var userLang = 'json';
+    var userDataset = 'states';
+
+    // Dataset results
+    var resultEl = $('.dataset-result');
+
+    // Choose dataset
+    $('.dataset-selection a').click(function(event) {
+      event.preventDefault();
+
+      var el = $(this);
+      fetchDataset(el.data('dataset'), userLang);
+    });
+
+    // Choose Language
+    $('.dataset-lang input[name=lang]:radio').change(function(event) {
+      var el = $(this);
+      console.log(el.val());
+      fetchDataset(userDataset, el.val());
+    });
+
+    // Fetch (AND UPDATE HTML)
+    function fetchDataset(dataset, lang) {
+      // Store last requested dataset + lang
+      userDataset = dataset;
+      userLang = lang;
+
+      // Fetch it!
+      var url = '//' + location.host + '/datasets/' + dataset + '?lang=' + lang;
+      $.getJSON(url, function(json) {
+        updateDatasetHTML(json);
+      }).fail(function() {
+        resultEl.find('.message').html('ERROR: Unable to fetch dataset');
+        resultEl.find('.code').html('');
+      });
+    }
+
+    // Update HTML based on given JSON response
+    function updateDatasetHTML(json) {
+      var resultEl = $('.dataset-result');
+      resultEl.find('.message').html('');
+      resultEl.find('.code').html(json.data);
+    }
