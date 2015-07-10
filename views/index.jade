@@ -13,15 +13,10 @@ block content
     .panel.panel-default
       .panel-body
         .btn-group.dataset-lang(data-toggle='buttons')
-          label.btn.btn-default.active
-              input#lang-json(type='radio', name='lang', autocomplete='off', checked='' value='json')
-              | JSON
-            label.btn.btn-default
-              input#lang-php(type='radio', name='lang', autocomplete='off' value='php')
-              | PHP
-            label.btn.btn-default
-              input#lang-ruby(type='radio', name='lang', autocomplete='off' value='ruby')
-              | Ruby
+          each lang in languages
+            label.btn.btn-default.active(class='#{lang}')
+              input.lang-tab(type='radio', name='lang', autocomplete='off', checked='' value='#{lang}')
+              = lang
         .dataset-result
           .message
             p Heyooo!
@@ -50,12 +45,13 @@ block append js
     // Choose Language
     $('.dataset-lang input[name=lang]:radio').change(function(event) {
       var el = $(this);
-      console.log(el.val());
       fetchDataset(userDataset, el.val());
     });
 
     // Fetch (AND UPDATE HTML)
     function fetchDataset(dataset, lang) {
+      resultEl.find('.code').removeClass('language-' + (userLang == 'json' ? 'javascript' : userLang))
+
       // Store last requested dataset + lang
       userDataset = dataset;
       userLang = lang;
@@ -74,5 +70,8 @@ block append js
     function updateDatasetHTML(json) {
       var resultEl = $('.dataset-result');
       resultEl.find('.message').html('');
-      resultEl.find('.code').html(json.data);
+      resultEl.find('.code').addClass('language-' + (userLang == 'json' ? 'javascript' : userLang)).html(json.data);
+
+      // Re-run code highlighting
+      Prism.highlightElement(resultEl.find('.code').get(0));
     }

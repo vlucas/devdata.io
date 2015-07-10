@@ -13,7 +13,7 @@ var router = express.Router();
 /**
  * Config
  */
-var supportedFormats = ['json', 'php', 'ruby'];
+var supportedFormats = ['json', 'php', 'python', 'ruby'];
 var datasets = ['states', 'countries', 'currencies'];
 
 /**
@@ -25,7 +25,11 @@ app.engine('jade', require('jade').__express);
 app.use(express.static(__dirname + '/public'));
 
 app.get('/', function(req, res) {
-  res.render('index');
+  res.render('index', { languages: supportedFormats });
+});
+
+app.get('/datasets/new', function(req, res) {
+  res.render('datasets/new');
 });
 
 
