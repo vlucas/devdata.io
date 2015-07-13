@@ -1,7 +1,7 @@
 extends layout/main
 
 block content
-  h2 What Data Do You Need?
+  h2 The Data You Need, In the Language You Need
 
   .col-sm-3
     .list-group.dataset-selection
@@ -19,13 +19,37 @@ block content
               = lang
         .dataset-result
           .message
-            p Heyooo!
+            br
           .highlight
             pre
               code.code
+                | 1. Select the data set you need to the left
+                | 2. Select the programming language you need it in above
+                | 3. Copypasta and enjoy!
 
 block append js
+  // Maybe should move this to external JS, but it's an SPA for now, so this is actually most efficient...
   script.
+    function isMobile() {
+      return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
+    }
+
+    function SelectText(element) {
+      var doc = document
+        , range, selection;
+
+      if (doc.body.createTextRange) {
+        range = document.body.createTextRange();
+        range.moveToElementText(element);
+        range.select();
+      } else if (window.getSelection) {
+        selection = window.getSelection();
+        range = document.createRange();
+        range.selectNodeContents(element);
+        selection.removeAllRanges();
+        selection.addRange(range);
+      }
+    }
 
     // Language to request code for
     var userLang = 'json';
@@ -58,9 +82,11 @@ block append js
 
       // Fetch it!
       var url = '//' + location.host + '/datasets/' + dataset + '?lang=' + lang;
+      showLoadingIndicator();
       $.getJSON(url, function(json) {
         updateDatasetHTML(json);
       }).fail(function() {
+        hideLoadingIndicator();
         resultEl.find('.message').html('ERROR: Unable to fetch dataset');
         resultEl.find('.code').html('');
       });
@@ -68,10 +94,38 @@ block append js
 
     // Update HTML based on given JSON response
     function updateDatasetHTML(json) {
-      var resultEl = $('.dataset-result');
       resultEl.find('.message').html('');
       resultEl.find('.code').addClass('language-' + (userLang == 'json' ? 'javascript' : userLang)).html(json.data);
 
-      // Re-run code highlighting
-      Prism.highlightElement(resultEl.find('.code').get(0));
+      // Don't syntax highlight on mobile - it's too slow, esp. for the large currency dataset (heck, it's even slow on desktop)
+      if( !isMobile()) {
+        // Re-run code highlighting
+        Prism.highlightElement(resultEl.find('.code').get(0), true, function () {
+          hideLoadingIndicator();
+        });
+      }
     }
+
+    // Loading indicator
+    function showLoadingIndicator() {
+      hideSelectButton();
+      resultEl.append('<div class="loadingIndicator">Loading...</div>');
+    }
+    function hideLoadingIndicator() {
+      resultEl.find('.loadingIndicator').remove();
+      showSelectButton();
+    }
+
+    // Code select all code
+    function showSelectButton() {
+      resultEl.append('<a class="btn btn-primary selectCode">Select All</a>');
+    }
+    function hideSelectButton() {
+      resultEl.find('.selectCode').remove();
+    }
+
+    // Event delegation assuming the select button is going to be there
+    resultEl.on('click', '.selectCode', function (event) {
+      SelectText(resultEl.find('.code').get(0));
+    });
+

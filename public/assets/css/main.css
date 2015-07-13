@@ -34,3 +34,23 @@ textarea.code {
   color: #eee;
   background-color: #BA1301;
 }
+
+
+.dataset-result {
+  position: relative;
+}
+.loadingIndicator {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: block;
+  background: '#333';
+  color: '#fff';
+  padding: 1em;
+  font-size: 1.5em;
+}
+.selectCode {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
