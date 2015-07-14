@@ -1,7 +1,7 @@
 DevData.io
 ==========
 
-The Data You Need, The Programming Language You Want
+The Data You Need In The Programming Language You Want
 
 DevData.io exists to serve a simple purpose: An easy way to get common data
 sets (like States, Countries, Curriencies and symbols, etc.) in the programming language you want them in for the projects you are
