@@ -1,20 +1,22 @@
 extends layout/main
 
 block content
-  h2 The Data You Need, In the Language You Need
+  h2 The Data You Need, The Programming Language You Want
 
   .col-sm-3
     .list-group.dataset-selection
       a.list-group-item(href="#" data-dataset="states") U.S. States
       a.list-group-item(href="#" data-dataset="countries") World Countries
       a.list-group-item(href="#" data-dataset="currencies") World Currencies
+      a.dataset-new.btn.btn-link
+        | &plus; Add a New Dataset...
 
   .col-sm-9
     .panel.panel-default
       .panel-body
         .btn-group.dataset-lang(data-toggle='buttons')
-          each lang in languages
-            label.btn.btn-default.active(class='#{lang}')
+          each lang, i in languages
+            label.btn.btn-default(class=(lang + (i === 0 ? ' active' : '')))
               input.lang-tab(type='radio', name='lang', autocomplete='off', checked='' value='#{lang}')
               = lang
         .dataset-result
@@ -59,17 +61,22 @@ block append js
     var resultEl = $('.dataset-result');
 
     // Choose dataset
-    $('.dataset-selection a').click(function(event) {
+    $('.dataset-selection a.list-group-item').click(function(event) {
       event.preventDefault();
 
       var el = $(this);
       fetchDataset(el.data('dataset'), userLang);
+
+      $('.dataset-selection a.list-group-item').removeClass('active');
+      el.addClass('active');
     });
 
     // Choose Language
     $('.dataset-lang input[name=lang]:radio').change(function(event) {
       var el = $(this);
       fetchDataset(userDataset, el.val());
+      $('.dataset-lang input[name=lang]:radio').removeClass('active');
+      el.addClass('active');
     });
 
     // Fetch (AND UPDATE HTML)
@@ -100,6 +107,7 @@ block append js
       // Don't syntax highlight on mobile - it's too slow, esp. for the large currency dataset (heck, it's even slow on desktop)
       if( !isMobile()) {
         // Re-run code highlighting
+        showLoadingIndicator('Formatting...');
         Prism.highlightElement(resultEl.find('.code').get(0), true, function () {
           hideLoadingIndicator();
         });
@@ -107,9 +115,10 @@ block append js
     }
 
     // Loading indicator
-    function showLoadingIndicator() {
+    function showLoadingIndicator(msg) {
       hideSelectButton();
-      resultEl.append('<div class="loadingIndicator">Loading...</div>');
+      hideLoadingIndicator();
+      resultEl.append('<div class="loadingIndicator">' + (msg || 'Loading...') + '</div>');
     }
     function hideLoadingIndicator() {
       resultEl.find('.loadingIndicator').remove();
