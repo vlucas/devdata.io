@@ -5,10 +5,9 @@ block content
 
   .col-sm-3
     .list-group.dataset-selection
-      a.list-group-item(href="#" data-dataset="states") U.S. States
-      a.list-group-item(href="#" data-dataset="countries") World Countries
-      a.list-group-item(href="#" data-dataset="currencies") World Currencies
-      a.dataset-new.btn.btn-link
+      each datasetName, dataset in datasets
+        a.list-group-item(href="#" data-dataset="#{dataset}")= datasetName
+      a.dataset-new.btn.btn-link(href="https://github.com/vlucas/devdata.io#adding-a-new-dataset")
         | &plus; Add a New Dataset...
 
   .col-sm-9

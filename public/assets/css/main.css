@@ -29,20 +29,32 @@ textarea.code {
 .dataset-lang label.active {
   border-bottom: 2px solid #333;
 }
-.dataset-lang .php {
+.dataset-lang label.php {
   text-transform: uppercase;
+  background-color: #c0c7e5;
+}
+.dataset-lang label.php.active {
   color: #eee;
   background-color: #8892BF;
 }
-.dataset-lang .json {
+.dataset-lang label.json {
   text-transform: uppercase;
+  background-color: #fcf5bf;
+}
+.dataset-lang label.json.active {
   background-color: #F7DF1E;
 }
-.dataset-lang .python {
+.dataset-lang label.python {
+  background-color: #9dbfdb;
+}
+.dataset-lang label.python.active {
   color: #eee;
   background-color: #3774A7;
 }
-.dataset-lang .ruby {
+.dataset-lang label.ruby {
+  background-color: #ffbaba;
+}
+.dataset-lang label.ruby.active {
   color: #eee;
   background-color: #BA1301;
 }
