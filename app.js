@@ -13,7 +13,7 @@ var router = express.Router();
 /**
  * Config
  */
-var supportedFormats = ['json', 'php', 'python', 'ruby'];
+var supportedFormats = ['json', 'php', 'python', 'ruby', 'csharp'];
 var datasets = {
   'states': 'U.S. States',
   'canadian-provinces': 'Canadian Provinces',
