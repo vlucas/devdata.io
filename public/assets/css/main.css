@@ -24,24 +24,21 @@ textarea.code {
 
 .dataset-lang label {
   font-weight: bold;
-  text-transform: capitalize;
 }
 .dataset-lang label.active {
   border-bottom: 2px solid #333;
 }
 .dataset-lang label.php {
-  text-transform: uppercase;
   background-color: #c0c7e5;
 }
 .dataset-lang label.php.active {
   color: #eee;
   background-color: #8892BF;
 }
-.dataset-lang label.json {
-  text-transform: uppercase;
+.dataset-lang label.javascript {
   background-color: #fcf5bf;
 }
-.dataset-lang label.json.active {
+.dataset-lang label.javascript.active {
   background-color: #F7DF1E;
 }
 .dataset-lang label.python {
@@ -57,6 +54,13 @@ textarea.code {
 .dataset-lang label.ruby.active {
   color: #eee;
   background-color: #BA1301;
+}
+.dataset-lang label.lua {
+  background-color: #a6bbe0;
+}
+.dataset-lang label.lua.active {
+  color: #eee;
+  background-color: #000080;
 }
 
 

@@ -14,10 +14,10 @@ block content
     .panel.panel-default
       .panel-body
         .btn-group.dataset-lang(data-toggle='buttons')
-          each lang, i in languages
-            label.btn.btn-default(class=(lang + (i === 0 ? ' active' : '')))
+          each languageName, lang in languages
+            label.btn.btn-default(class=(lang + (lang == 'javascript' ? ' active' : '')))
               input.lang-tab(type='radio', name='lang', autocomplete='off', checked='' value='#{lang}')
-              = lang
+              = languageName
         .dataset-result
           .message
             br
@@ -53,7 +53,7 @@ block append js
     }
 
     // Language to request code for
-    var userLang = 'json';
+    var userLang = 'javascript';
     var userDataset = 'states';
 
     // Dataset results
@@ -104,12 +104,14 @@ block append js
       resultEl.find('.code').addClass('language-' + (userLang == 'json' ? 'javascript' : userLang)).html(json.data);
 
       // Don't syntax highlight on mobile - it's too slow, esp. for the large currency dataset (heck, it's even slow on desktop)
-      if( !isMobile()) {
+      if (!isMobile() && userLang !== 'lua') {
         // Re-run code highlighting
         showLoadingIndicator('Formatting...');
         Prism.highlightElement(resultEl.find('.code').get(0), true, function () {
           hideLoadingIndicator();
         });
+      } else {
+        hideLoadingIndicator();
       }
     }
 

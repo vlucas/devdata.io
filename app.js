@@ -13,7 +13,14 @@ var router = express.Router();
 /**
  * Config
  */
-var supportedFormats = ['json', 'php', 'python', 'ruby', 'csharp'];
+var supportedFormats = {
+  'javascript': 'JavaScript',
+  'php': 'PHP',
+  'python': 'Python',
+  'ruby': 'Ruby',
+  'csharp': 'C#',
+  'lua': 'Lua'
+};
 var datasets = {
   'states': 'U.S. States',
   'canadian-provinces': 'Canadian Provinces',
@@ -40,6 +47,7 @@ app.get('/', function(req, res) {
 app.get('/datasets/:dataset', function(req, res) {
   var errMsg;
   var dataset = req.params.dataset;
+  var lang = req.query.lang;
 
   // Ensure we have a valid dataset
   if (datasets[dataset] == "undefined") {
@@ -47,12 +55,12 @@ app.get('/datasets/:dataset', function(req, res) {
   }
 
   // Ensure we have a format
-  if (!req.query.lang) {
+  if (!lang) {
     errMsg = "Code language not specified. Please choose a code language with the 'lang' parameter.";
 
   // Ensure format is one we support
-  } else if (supportedFormats.indexOf(req.query.lang) === -1) {
-    errMsg = "Code language '" + req.query.lang + "' not supported. Supported languages are: ['" + supportedFormats.join("', '") + "'].";
+  } else if (supportedFormats[lang] == 'undefined') {
+    errMsg = "Code language '" + req.query.lang + "' not supported. Supported languages are: ['" + Object.keys(supportedFormats).join("', '") + "'].";
   }
 
   // Show error if set and break
@@ -71,7 +79,7 @@ app.get('/datasets/:dataset', function(req, res) {
     var dataLang;
     var jsonData = JSON.parse(data);
 
-    dataLang = converter.jsonToLang(jsonData, req.query.lang);
+    dataLang = converter.jsonToLang(jsonData, lang);
     if (!dataLang) {
       return res.status(400).json({ status: 'error', message: 'Unsupported lang' });
     }
