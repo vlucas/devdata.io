@@ -19,7 +19,8 @@ var datasets = {
   'canadian-provinces': 'Canadian Provinces',
   'countries': 'World Countries',
   'currencies': 'World Currencies',
-  'timezones': 'World Time Zones'
+  'timezones': 'World Time Zones',
+  'airport-codes': 'International Airport Codes'
 };
 
 /**
