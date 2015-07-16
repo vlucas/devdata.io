@@ -18,7 +18,8 @@ var datasets = {
   'states': 'U.S. States',
   'canadian-provinces': 'Canadian Provinces',
   'countries': 'World Countries',
-  'currencies': 'World Currencies'
+  'currencies': 'World Currencies',
+  'timezones': 'World Time Zones'
 };
 
 /**
