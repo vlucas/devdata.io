@@ -19,7 +19,7 @@ var datasets = {
   'canadian-provinces': 'Canadian Provinces',
   'countries': 'World Countries',
   'currencies': 'World Currencies',
-  'airportcodes': 'International Airport Codes'
+  'airport-codes': 'International Airport Codes'
 };
 
 /**
