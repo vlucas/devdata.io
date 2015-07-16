@@ -19,7 +19,8 @@ var supportedFormats = {
   'python': 'Python',
   'ruby': 'Ruby',
   'csharp': 'C#',
-  'lua': 'Lua'
+  'lua': 'Lua',
+  'dart': 'Dart'
 };
 var datasets = {
   'states': 'U.S. States',
