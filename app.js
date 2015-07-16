@@ -13,13 +13,14 @@ var router = express.Router();
 /**
  * Config
  */
-var supportedFormats = ['json', 'php', 'python', 'ruby'];
+var supportedFormats = ['json', 'php', 'python', 'ruby', 'csharp'];
 var datasets = {
   'states': 'U.S. States',
   'canadian-provinces': 'Canadian Provinces',
   'countries': 'World Countries',
   'currencies': 'World Currencies',
-  'airport-codes': 'International Airport Codes'
+  'airport-codes': 'International Airport Codes',
+  'timezones': 'World Time Zones'
 };
 
 /**
