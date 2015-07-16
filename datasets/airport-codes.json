@@ -1,0 +1,6078 @@
+{
+  "AAE": {
+    "airport":"Annaba",
+    "country":"Algeria"
+  },
+  "AAL": {
+    "airport":"Aalborg",
+    "country":"Denmark"
+  },
+  "AAM": {
+    "airport":"Mala Mala",
+    "country":"South Africa"
+  },
+  "AAR": {
+    "airport":"Aarhus",
+    "country":"Denmark"
+  },
+  "ABE": {
+    "airport":"Allentown, PA",
+    "country":"USA"
+  },
+  "ABI": {
+    "airport":"Abilene, TX",
+    "country":"USA"
+  },
+  "ABJ": {
+    "airport":"Abidjan",
+    "country":"Ivory Coast"
+  },
+  "ABQ": {
+    "airport":"Albuquerque, NM",
+    "country":"USA"
+  },
+  "ABR": {
+    "airport":"Aberdeen, SD",
+    "country":"USA"
+  },
+  "ABV": {
+    "airport":"Abuja",
+    "country":"Nigeria"
+  },
+  "ABX": {
+    "airport":"Albury, N.S.W.",
+    "country":"Australia"
+  },
+  "ABY": {
+    "airport":"Albany, GA",
+    "country":"USA"
+  },
+  "ABZ": {
+    "airport":"Aberdeen",
+    "country":"Scotland"
+  },
+  "ACA": {
+    "airport":"Acapulco",
+    "country":"Mexico"
+  },
+  "ACE": {
+    "airport":"Arrecife, Lanzarote Island",
+    "country":"Canary Islands"
+  },
+  "ACH": {
+    "airport":"Altenrhein",
+    "country":"Switzerland"
+  },
+  "ACK": {
+    "airport":"Nantucket, MA",
+    "country":"USA"
+  },
+  "ACT": {
+    "airport":"Waco, TX",
+    "country":"USA"
+  },
+  "ACV": {
+    "airport":"Eureka, CA",
+    "country":"USA"
+  },
+  "ACY": {
+    "airport":"Atlantic City, NJ",
+    "country":"USA"
+  },
+  "ADA": {
+    "airport":"Adana",
+    "country":"Turkey"
+  },
+  "ADB": {
+    "airport":"Izmir",
+    "country":"Turkey"
+  },
+  "ADD": {
+    "airport":"Addis Ababa",
+    "country":"Ethiopia"
+  },
+  "ADE": {
+    "airport":"Aden",
+    "country":"Yemen"
+  },
+  "ADF": {
+    "airport":"Adiyaman",
+    "country":"Turkey"
+  },
+  "ADL": {
+    "airport":"Adelaide, S.A.",
+    "country":"Australia"
+  },
+  "ADQ": {
+    "airport":"Kodiak, AK",
+    "country":"USA"
+  },
+  "ADU": {
+    "airport":"Ardabil",
+    "country":"Iran"
+  },
+  "ADZ": {
+    "airport":"San Andres",
+    "country":"Colombia"
+  },
+  "AES": {
+    "airport":"Aalesund",
+    "country":"Norway"
+  },
+  "AEX": {
+    "airport":"Alexandria, LA",
+    "country":"USA"
+  },
+  "AGA": {
+    "airport":"Agadir",
+    "country":"Morocco"
+  },
+  "AGH": {
+    "airport":"Helsingborg",
+    "country":"Sweden"
+  },
+  "AGP": {
+    "airport":"Malaga",
+    "country":"Spain"
+  },
+  "AGS": {
+    "airport":"Augusta, GA",
+    "country":"USA"
+  },
+  "AGT": {
+    "airport":"Ciudad del Este",
+    "country":"Paraguay"
+  },
+  "AGU": {
+    "airport":"Aguascalientes",
+    "country":"Mexico"
+  },
+  "AHE": {
+    "airport":"Ahe",
+    "country":"French Polynesia"
+  },
+  "AHN": {
+    "airport":"Athens, GA",
+    "country":"USA"
+  },
+  "AHO": {
+    "airport":"Alghero, Sardinia",
+    "country":"Italy"
+  },
+  "AIA": {
+    "airport":"Alliance, NE",
+    "country":"USA"
+  },
+  "AJA": {
+    "airport":"Ajaccio, Corsica",
+    "country":"France"
+  },
+  "AJR": {
+    "airport":"Arvidsjaur",
+    "country":"Sweden"
+  },
+  "AKL": {
+    "airport":"Auckland",
+    "country":"New Zealand"
+  },
+  "AKN": {
+    "airport":"King Salmon, AK",
+    "country":"USA"
+  },
+  "ALA": {
+    "airport":"Almaty",
+    "country":"Kazakhstan"
+  },
+  "ALB": {
+    "airport":"Albany, NY",
+    "country":"USA"
+  },
+  "ALC": {
+    "airport":"Alicante",
+    "country":"Spain"
+  },
+  "ALF": {
+    "airport":"Alta",
+    "country":"Norway"
+  },
+  "ALG": {
+    "airport":"Algiers",
+    "country":"Algeria"
+  },
+  "ALL": {
+    "airport":"Albenga",
+    "country":"Italy"
+  },
+  "ALO": {
+    "airport":"Waterloo, IA",
+    "country":"USA"
+  },
+  "ALS": {
+    "airport":"Alamosa, CO",
+    "country":"USA"
+  },
+  "ALW": {
+    "airport":"Walla Walla, WA",
+    "country":"USA"
+  },
+  "ALY": {
+    "airport":"Alexandria",
+    "country":"Egypt"
+  },
+  "AMA": {
+    "airport":"Amarillo, TX",
+    "country":"USA"
+  },
+  "AMD": {
+    "airport":"Ahmedabad",
+    "country":"India"
+  },
+  "AMM": {
+    "airport":"Amman",
+    "country":"Jordan"
+  },
+  "AMS": {
+    "airport":"Amsterdam",
+    "country":"Netherlands"
+  },
+  "ANC": {
+    "airport":"Anchorage, AK",
+    "country":"USA"
+  },
+  "ANF": {
+    "airport":"Antofagasta",
+    "country":"Chile"
+  },
+  "ANR": {
+    "airport":"Antwerp",
+    "country":"Belgium"
+  },
+  "ANU": {
+    "airport":"St. John's",
+    "country":"Antigua"
+  },
+  "AOI": {
+    "airport":"Ancona",
+    "country":"Italy"
+  },
+  "AOJ": {
+    "airport":"Aomori",
+    "country":"Japan"
+  },
+  "AOO": {
+    "airport":"Altoona, PA",
+    "country":"USA"
+  },
+  "AOR": {
+    "airport":"Alor Setar",
+    "country":"Malaysia"
+  },
+  "AOT": {
+    "airport":"Aosta",
+    "country":"Italy"
+  },
+  "APF": {
+    "airport":"Naples, FL",
+    "country":"USA"
+  },
+  "APN": {
+    "airport":"Alpena, MI",
+    "country":"USA"
+  },
+  "AQP": {
+    "airport":"Arequipa",
+    "country":"Peru"
+  },
+  "ARH": {
+    "airport":"Arkhangelsk",
+    "country":"Russia"
+  },
+  "ARI": {
+    "airport":"Arica",
+    "country":"Chile"
+  },
+  "ARK": {
+    "airport":"Arusha",
+    "country":"Tanzania"
+  },
+  "ARM": {
+    "airport":"Armidale, N.S.W.",
+    "country":"Australia"
+  },
+  "ARN": {
+    "airport":"Stockholm",
+    "country":"Sweden"
+  },
+  "ART": {
+    "airport":"Watertown, NY",
+    "country":"USA"
+  },
+  "ASD": {
+    "airport":"Andros Town",
+    "country":"Bahamas"
+  },
+  "ASE": {
+    "airport":"Aspen, CO",
+    "country":"USA"
+  },
+  "ASJ": {
+    "airport":"Naze, Amami-O Island",
+    "country":"Japan"
+  },
+  "ASM": {
+    "airport":"Asmara",
+    "country":"Eritrea"
+  },
+  "ASP": {
+    "airport":"Alice Springs, N.T.",
+    "country":"Australia"
+  },
+  "ASU": {
+    "airport":"Asuncion",
+    "country":"Paraguay"
+  },
+  "ASW": {
+    "airport":"Aswan",
+    "country":"Egypt"
+  },
+  "ATH": {
+    "airport":"Athens",
+    "country":"Greece"
+  },
+  "ATL": {
+    "airport":"Atlanta, GA",
+    "country":"USA"
+  },
+  "ATW": {
+    "airport":"Appleton, WI",
+    "country":"USA"
+  },
+  "ATY": {
+    "airport":"Watertown, SD",
+    "country":"USA"
+  },
+  "AUA": {
+    "airport":"Oranjestad",
+    "country":"Aruba"
+  },
+  "AUG": {
+    "airport":"Augusta, ME",
+    "country":"USA"
+  },
+  "AUH": {
+    "airport":"Abu Dhabi",
+    "country":"United Arab Emirates"
+  },
+  "AUS": {
+    "airport":"Austin, TX",
+    "country":"USA"
+  },
+  "AVL": {
+    "airport":"Asheville, NC",
+    "country":"USA"
+  },
+  "AVP": {
+    "airport":"Wilkes-Barre, PA",
+    "country":"USA"
+  },
+  "AVV": {
+    "airport":"Melbourne, Vic.",
+    "country":"Australia"
+  },
+  "AXA": {
+    "airport":"The Valley",
+    "country":"Anguilla"
+  },
+  "AXD": {
+    "airport":"Alexandroupolis",
+    "country":"Greece"
+  },
+  "AXT": {
+    "airport":"Akita",
+    "country":"Japan"
+  },
+  "AYQ": {
+    "airport":"Ayers Rock, N.T.",
+    "country":"Australia"
+  },
+  "AYT": {
+    "airport":"Antalya",
+    "country":"Turkey"
+  },
+  "AZO": {
+    "airport":"Kalamazoo, MI",
+    "country":"USA"
+  },
+  "": {
+    "airport":"B top",
+    "country":""
+  },
+  "BAH": {
+    "airport":"Manama",
+    "country":"Bahrain"
+  },
+  "BAK": {
+    "airport":"Baku",
+    "country":"Azerbaijan"
+  },
+  "BAQ": {
+    "airport":"Barranquilla",
+    "country":"Colombia"
+  },
+  "BAU": {
+    "airport":"Bauru",
+    "country":"Brazil"
+  },
+  "BBA": {
+    "airport":"Balmaceda",
+    "country":"Chile"
+  },
+  "BBF": {
+    "airport":"Burlington, MA",
+    "country":"USA"
+  },
+  "BCD": {
+    "airport":"Bacolod",
+    "country":"Philippines"
+  },
+  "BCN": {
+    "airport":"Barcelona",
+    "country":"Spain"
+  },
+  "BDA": {
+    "airport":"Hamilton",
+    "country":"Bermuda"
+  },
+  "BDB": {
+    "airport":"Bundaberg, Qld.",
+    "country":"Australia"
+  },
+  "BDL": {
+    "airport":"Hartford, CT",
+    "country":"USA"
+  },
+  "BDS": {
+    "airport":"Brindisi",
+    "country":"Italy"
+  },
+  "BDU": {
+    "airport":"Bardufoss",
+    "country":"Norway"
+  },
+  "BEB": {
+    "airport":"Benbecula",
+    "country":"Scotland"
+  },
+  "BED": {
+    "airport":"Bedford, MA",
+    "country":"USA"
+  },
+  "BEG": {
+    "airport":"Belgrade",
+    "country":"Serbia and Montenegro"
+  },
+  "BEL": {
+    "airport":"Belem",
+    "country":"Brazil"
+  },
+  "BER - All Airports": {
+    "airport":"Berlin",
+    "country":"Germany"
+  },
+  "BES": {
+    "airport":"Brest",
+    "country":"France"
+  },
+  "BET": {
+    "airport":"Bethel, AK",
+    "country":"USA"
+  },
+  "BEY": {
+    "airport":"Beirut",
+    "country":"Lebanon"
+  },
+  "BFF": {
+    "airport":"Scottsbluff, NE",
+    "country":"USA"
+  },
+  "BFL": {
+    "airport":"Bakersfield, CA",
+    "country":"USA"
+  },
+  "BFN": {
+    "airport":"Bloemfontein",
+    "country":"South Africa"
+  },
+  "BFS": {
+    "airport":"Belfast",
+    "country":"Northern Ireland"
+  },
+  "BFV": {
+    "airport":"Buri Ram",
+    "country":"Thailand"
+  },
+  "BGF": {
+    "airport":"Bangui",
+    "country":"Central African Republic"
+  },
+  "BGI": {
+    "airport":"Bridgetown",
+    "country":"Barbados"
+  },
+  "BGM": {
+    "airport":"Binghamton, NY",
+    "country":"USA"
+  },
+  "BGO": {
+    "airport":"Bergen",
+    "country":"Norway"
+  },
+  "BGR": {
+    "airport":"Bangor, ME",
+    "country":"USA"
+  },
+  "BHB": {
+    "airport":"Bar Harbor, ME",
+    "country":"USA"
+  },
+  "BHD": {
+    "airport":"Belfast",
+    "country":"Northern Ireland"
+  },
+  "BHE": {
+    "airport":"Blenheim",
+    "country":"New Zealand"
+  },
+  "BHM": {
+    "airport":"Birmingham, AL",
+    "country":"USA"
+  },
+  "BHQ": {
+    "airport":"Broken Hill, N.S.W.",
+    "country":"Australia"
+  },
+  "BHS": {
+    "airport":"Bathurst, N.S.W.",
+    "country":"Australia"
+  },
+  "BHX": {
+    "airport":"Birmingham",
+    "country":"England"
+  },
+  "BIA": {
+    "airport":"Bastia, Corsica",
+    "country":"France"
+  },
+  "Big": {
+    "airport":"Kailua-Kona, Hawaii",
+    "country":"USA"
+  },
+  "Big": {
+    "airport":"Hilo, Hawaii",
+    "country":"USA"
+  },
+  "Big": {
+    "airport":"Kamuela, Hawaii",
+    "country":"USA"
+  },
+  "BIK": {
+    "airport":"Biak, Papua",
+    "country":"Indonesia"
+  },
+  "BIL": {
+    "airport":"Billings, MT",
+    "country":"USA"
+  },
+  "BIO": {
+    "airport":"Bilbao",
+    "country":"Spain"
+  },
+  "BIQ": {
+    "airport":"Biarritz",
+    "country":"France"
+  },
+  "BIS": {
+    "airport":"Bismarck, ND",
+    "country":"USA"
+  },
+  "BJI": {
+    "airport":"Bemidji, MN",
+    "country":"USA"
+  },
+  "BJL": {
+    "airport":"Banjul",
+    "country":"Gambia"
+  },
+  "BJM": {
+    "airport":"Bujumbura",
+    "country":"Burundi"
+  },
+  "BJS": {
+    "airport":"Beijing",
+    "country":"China"
+  },
+  "BJX": {
+    "airport":"Leon",
+    "country":"Mexico"
+  },
+  "BJZ": {
+    "airport":"Badajoz",
+    "country":"Spain"
+  },
+  "BKI": {
+    "airport":"Kota Kinabalu, Sabah",
+    "country":"Malaysia"
+  },
+  "BKK": {
+    "airport":"Bangkok",
+    "country":"Thailand"
+  },
+  "BKW": {
+    "airport":"Beckley, WV",
+    "country":"USA"
+  },
+  "BKX": {
+    "airport":"Brookings, SD",
+    "country":"USA"
+  },
+  "BLE": {
+    "airport":"Borlange",
+    "country":"Sweden"
+  },
+  "BLF": {
+    "airport":"Bluefield, WV",
+    "country":"USA"
+  },
+  "BLI": {
+    "airport":"Bellingham, WA",
+    "country":"USA"
+  },
+  "BLL": {
+    "airport":"Billund",
+    "country":"Denmark"
+  },
+  "BLQ": {
+    "airport":"Bologna",
+    "country":"Italy"
+  },
+  "BLR": {
+    "airport":"Bangalore",
+    "country":"India"
+  },
+  "BLZ": {
+    "airport":"Blantyre",
+    "country":"Malawi"
+  },
+  "BMA": {
+    "airport":"Stockholm",
+    "country":"Sweden"
+  },
+  "BME": {
+    "airport":"Broome, W.A.",
+    "country":"Australia"
+  },
+  "BMG": {
+    "airport":"Bloomington, IN",
+    "country":"USA"
+  },
+  "BMI": {
+    "airport":"Bloomington, IL",
+    "country":"USA"
+  },
+  "BMV": {
+    "airport":"Ban Me Thuot",
+    "country":"Vietnam"
+  },
+  "BNA": {
+    "airport":"Nashville, TN",
+    "country":"USA"
+  },
+  "BNE": {
+    "airport":"Brisbane, Qld.",
+    "country":"Australia"
+  },
+  "BNK": {
+    "airport":"Ballina, N.S.W.",
+    "country":"Australia"
+  },
+  "BOD": {
+    "airport":"Bordeaux",
+    "country":"France"
+  },
+  "BOG": {
+    "airport":"Bogota",
+    "country":"Colombia"
+  },
+  "BOI": {
+    "airport":"Boise, ID",
+    "country":"USA"
+  },
+  "BOM": {
+    "airport":"Mumbai (Bombay)",
+    "country":"India"
+  },
+  "BON": {
+    "airport":"Kralendijk",
+    "country":"Bonaire"
+  },
+  "BOO": {
+    "airport":"Bodo",
+    "country":"Norway"
+  },
+  "BOS": {
+    "airport":"Boston, MA",
+    "country":"USA"
+  },
+  "BPN": {
+    "airport":"Balikpapan, Kalimantan",
+    "country":"Indonesia"
+  },
+  "BPT": {
+    "airport":"Beaumont, TX",
+    "country":"USA"
+  },
+  "BPX": {
+    "airport":"Bangda",
+    "country":"China"
+  },
+  "BQK": {
+    "airport":"Brunswick, GA",
+    "country":"USA"
+  },
+  "BQN": {
+    "airport":"Aguadilla",
+    "country":"Puerto Rico"
+  },
+  "BRC": {
+    "airport":"San Carlos de Bariloche",
+    "country":"Argentina"
+  },
+  "BRE": {
+    "airport":"Bremen",
+    "country":"Germany"
+  },
+  "BRI": {
+    "airport":"Bari",
+    "country":"Italy"
+  },
+  "BRL": {
+    "airport":"Burlington, IA",
+    "country":"USA"
+  },
+  "BRN": {
+    "airport":"Berne",
+    "country":"Switzerland"
+  },
+  "BRO": {
+    "airport":"Brownsville, TX",
+    "country":"USA"
+  },
+  "BRS": {
+    "airport":"Bristol",
+    "country":"England"
+  },
+  "BRU": {
+    "airport":"Brussels",
+    "country":"Belgium"
+  },
+  "BRW": {
+    "airport":"Barrow, AK",
+    "country":"USA"
+  },
+  "BSB": {
+    "airport":"Brasilia",
+    "country":"Brazil"
+  },
+  "BSL": {
+    "airport":"Basel",
+    "country":"Switzerland"
+  },
+  "BTM": {
+    "airport":"Butte, MT",
+    "country":"USA"
+  },
+  "BTR": {
+    "airport":"Baton Rouge, LA",
+    "country":"USA"
+  },
+  "BTS": {
+    "airport":"Bratislava",
+    "country":"Slovakia"
+  },
+  "BTT": {
+    "airport":"Bettles, AK",
+    "country":"USA"
+  },
+  "BTU": {
+    "airport":"Bintulu, Sarawak",
+    "country":"Malaysia"
+  },
+  "BTV": {
+    "airport":"Burlington, VT",
+    "country":"USA"
+  },
+  "BUD": {
+    "airport":"Budapest",
+    "country":"Hungary"
+  },
+  "BUF": {
+    "airport":"Buffalo, NY",
+    "country":"USA"
+  },
+  "BUG": {
+    "airport":"Benguela",
+    "country":"Angola"
+  },
+  "BUQ": {
+    "airport":"Bulawayo",
+    "country":"Zimbabwe"
+  },
+  "BUR": {
+    "airport":"Burbank, CA",
+    "country":"USA"
+  },
+  "BVA": {
+    "airport":"Beauvais",
+    "country":"France"
+  },
+  "BWI": {
+    "airport":"Baltimore, MD",
+    "country":"USA"
+  },
+  "BWN": {
+    "airport":"Bandar Seri Begawan",
+    "country":"Brunei"
+  },
+  "BXU": {
+    "airport":"Butuan",
+    "country":"Philippines"
+  },
+  "BZE": {
+    "airport":"Belize City",
+    "country":"Belize"
+  },
+  "BZG": {
+    "airport":"Bydgoszcz",
+    "country":"Poland"
+  },
+  "BZL": {
+    "airport":"Barisal",
+    "country":"Bangladesh"
+  },
+  "BZN": {
+    "airport":"Bozeman, MT",
+    "country":"USA"
+  },
+  "BZO": {
+    "airport":"Bolzano",
+    "country":"Italy"
+  },
+  "BZV": {
+    "airport":"Brazzaville",
+    "country":"Congo"
+  },
+  "": {
+    "airport":"C top",
+    "country":""
+  },
+  "CAE": {
+    "airport":"Columbia, SC",
+    "country":"USA"
+  },
+  "CAG": {
+    "airport":"Cagliari, Sardinia",
+    "country":"Italy"
+  },
+  "CAI": {
+    "airport":"Cairo",
+    "country":"Egypt"
+  },
+  "CAK": {
+    "airport":"Akron, OH",
+    "country":"USA"
+  },
+  "CAL": {
+    "airport":"Campbeltown",
+    "country":"Scotland"
+  },
+  "CAN": {
+    "airport":"Guangzhou",
+    "country":"China"
+  },
+  "CAY": {
+    "airport":"Cayenne",
+    "country":"French Guiana"
+  },
+  "CBL": {
+    "airport":"Ciudad Bolivar",
+    "country":"Venezuela"
+  },
+  "CBO": {
+    "airport":"Cotabato",
+    "country":"Philippines"
+  },
+  "CBR": {
+    "airport":"Canberra, A.C.T.",
+    "country":"Australia"
+  },
+  "CCP": {
+    "airport":"Concepcion",
+    "country":"Chile"
+  },
+  "CCS": {
+    "airport":"Caracas",
+    "country":"Venezuela"
+  },
+  "CCU": {
+    "airport":"Calcutta",
+    "country":"India"
+  },
+  "CDG": {
+    "airport":"Paris",
+    "country":"France"
+  },
+  "CDV": {
+    "airport":"Cordova, AK",
+    "country":"USA"
+  },
+  "CEB": {
+    "airport":"Cebu",
+    "country":"Philippines"
+  },
+  "CED": {
+    "airport":"Ceduna, S.A.",
+    "country":"Australia"
+  },
+  "CEF": {
+    "airport":"Springfield, MA",
+    "country":"USA"
+  },
+  "CEI": {
+    "airport":"Chiang Rai",
+    "country":"Thailand"
+  },
+  "CEN": {
+    "airport":"Ciudad Obregon",
+    "country":"Mexico"
+  },
+  "CFE": {
+    "airport":"Clermont-Ferrand",
+    "country":"France"
+  },
+  "CFR": {
+    "airport":"Caen",
+    "country":"France"
+  },
+  "CFS": {
+    "airport":"Coffs Harbour, N.S.W.",
+    "country":"Australia"
+  },
+  "CGH": {
+    "airport":"Sao Paulo",
+    "country":"Brazil"
+  },
+  "CGI": {
+    "airport":"Cape Girardeau, MO",
+    "country":"USA"
+  },
+  "CGK": {
+    "airport":"Jakarta, Java",
+    "country":"Indonesia"
+  },
+  "CGN": {
+    "airport":"Cologne",
+    "country":"Germany"
+  },
+  "CGO": {
+    "airport":"Zhengzhou",
+    "country":"China"
+  },
+  "CGQ": {
+    "airport":"Changchun",
+    "country":"China"
+  },
+  "CGY": {
+    "airport":"Cagayan de Oro",
+    "country":"Philippines"
+  },
+  "CHA": {
+    "airport":"Chattanooga, TN",
+    "country":"USA"
+  },
+  "CHC": {
+    "airport":"Christchurch",
+    "country":"New Zealand"
+  },
+  "CHI - All Airports": {
+    "airport":"Chicago, IL",
+    "country":"USA"
+  },
+  "CHO": {
+    "airport":"Charlottesville, VA",
+    "country":"USA"
+  },
+  "CHQ": {
+    "airport":"Chania, Crete",
+    "country":"Greece"
+  },
+  "CHS": {
+    "airport":"Charleston, SC",
+    "country":"USA"
+  },
+  "CIA": {
+    "airport":"Rome",
+    "country":"Italy"
+  },
+  "CIC": {
+    "airport":"Chico, CA",
+    "country":"USA"
+  },
+  "CID": {
+    "airport":"Cedar Rapids, IA",
+    "country":"USA"
+  },
+  "CIU": {
+    "airport":"Sault Ste. Marie, MI",
+    "country":"USA"
+  },
+  "CJS": {
+    "airport":"Ciudad Juarez",
+    "country":"Mexico"
+  },
+  "CJU": {
+    "airport":"Jeju, Korea",
+    "country":"Republic of"
+  },
+  "CKB": {
+    "airport":"Clarksburg, WV",
+    "country":"USA"
+  },
+  "CKG": {
+    "airport":"Chongqing",
+    "country":"China"
+  },
+  "CKY": {
+    "airport":"Conakry",
+    "country":"Guinea"
+  },
+  "CLD": {
+    "airport":"Carlsbad, CA",
+    "country":"USA"
+  },
+  "CLE": {
+    "airport":"Cleveland, OH",
+    "country":"USA"
+  },
+  "CLL": {
+    "airport":"College Station, TX",
+    "country":"USA"
+  },
+  "CLO": {
+    "airport":"Cali",
+    "country":"Colombia"
+  },
+  "CLQ": {
+    "airport":"Colima",
+    "country":"Mexico"
+  },
+  "CLT": {
+    "airport":"Charlotte, NC",
+    "country":"USA"
+  },
+  "CLU": {
+    "airport":"Columbus, IN",
+    "country":"USA"
+  },
+  "CLY": {
+    "airport":"Calvi, Corsica",
+    "country":"France"
+  },
+  "CMB": {
+    "airport":"Colombo",
+    "country":"Sri Lanka"
+  },
+  "CME": {
+    "airport":"Ciudad Del Carmen",
+    "country":"Mexico"
+  },
+  "CMH": {
+    "airport":"Columbus, OH",
+    "country":"USA"
+  },
+  "CMI": {
+    "airport":"Champaign, IL",
+    "country":"USA"
+  },
+  "CMN": {
+    "airport":"Casablanca",
+    "country":"Morocco"
+  },
+  "CMX": {
+    "airport":"Hancock, MI",
+    "country":"USA"
+  },
+  "CNF": {
+    "airport":"Belo Horizonte",
+    "country":"Brazil"
+  },
+  "CNM": {
+    "airport":"Carlsbad, NM",
+    "country":"USA"
+  },
+  "CNS": {
+    "airport":"Cairns, Qld.",
+    "country":"Australia"
+  },
+  "CNX": {
+    "airport":"Chiang Mai",
+    "country":"Thailand"
+  },
+  "COD": {
+    "airport":"Cody, WY",
+    "country":"USA"
+  },
+  "COR": {
+    "airport":"Cordoba",
+    "country":"Argentina"
+  },
+  "COS": {
+    "airport":"Colorado Springs, CO",
+    "country":"USA"
+  },
+  "COU": {
+    "airport":"Columbia, MO",
+    "country":"USA"
+  },
+  "CPD": {
+    "airport":"Coober Pedy, S.A.",
+    "country":"Australia"
+  },
+  "CPE": {
+    "airport":"Campeche",
+    "country":"Mexico"
+  },
+  "CPH": {
+    "airport":"Copenhagen",
+    "country":"Denmark"
+  },
+  "CPO": {
+    "airport":"Copiapo",
+    "country":"Chile"
+  },
+  "CPR": {
+    "airport":"Casper, WY",
+    "country":"USA"
+  },
+  "CPT": {
+    "airport":"Cape Town",
+    "country":"South Africa"
+  },
+  "CRK": {
+    "airport":"Angeles City",
+    "country":"Philippines"
+  },
+  "CRP": {
+    "airport":"Corpus Christi, TX",
+    "country":"USA"
+  },
+  "CRV": {
+    "airport":"Crotone",
+    "country":"Italy"
+  },
+  "CRW": {
+    "airport":"Charleston, WV",
+    "country":"USA"
+  },
+  "CSG": {
+    "airport":"Columbus, GA",
+    "country":"USA"
+  },
+  "CSX": {
+    "airport":"Changsha",
+    "country":"China"
+  },
+  "CTA": {
+    "airport":"Catania, Sicily",
+    "country":"Italy"
+  },
+  "CTG": {
+    "airport":"Cartagena",
+    "country":"Colombia"
+  },
+  "CTL": {
+    "airport":"Charleville, Qld.",
+    "country":"Australia"
+  },
+  "CTM": {
+    "airport":"Chetumal",
+    "country":"Mexico"
+  },
+  "CTS": {
+    "airport":"Sapporo",
+    "country":"Japan"
+  },
+  "CTU": {
+    "airport":"Chengdu",
+    "country":"China"
+  },
+  "CUL": {
+    "airport":"Culiacan",
+    "country":"Mexico"
+  },
+  "CUN": {
+    "airport":"Cancun",
+    "country":"Mexico"
+  },
+  "CUR": {
+    "airport":"Willemstad",
+    "country":"Curacao"
+  },
+  "CUU": {
+    "airport":"Chihuahua",
+    "country":"Mexico"
+  },
+  "CUZ": {
+    "airport":"Cusco",
+    "country":"Peru"
+  },
+  "CVG": {
+    "airport":"Cincinnati, OH",
+    "country":"USA"
+  },
+  "CVM": {
+    "airport":"Ciudad Victoria",
+    "country":"Mexico"
+  },
+  "CVN": {
+    "airport":"Clovis, NM",
+    "country":"USA"
+  },
+  "CWA": {
+    "airport":"Wausau, WI",
+    "country":"USA"
+  },
+  "CWB": {
+    "airport":"Curitiba",
+    "country":"Brazil"
+  },
+  "CWL": {
+    "airport":"Cardiff",
+    "country":"Wales"
+  },
+  "CYB": {
+    "airport":"Cayman Brac",
+    "country":"Cayman Islands"
+  },
+  "CYS": {
+    "airport":"Cheyenne, WY",
+    "country":"USA"
+  },
+  "CZM": {
+    "airport":"Cozumel",
+    "country":"Mexico"
+  },
+  "": {
+    "airport":"D top",
+    "country":""
+  },
+  "DAB": {
+    "airport":"Daytona Beach, FL",
+    "country":"USA"
+  },
+  "DAC": {
+    "airport":"Dhaka",
+    "country":"Bangladesh"
+  },
+  "DAD": {
+    "airport":"Da Nang",
+    "country":"Vietnam"
+  },
+  "DAL": {
+    "airport":"Dallas, TX",
+    "country":"USA"
+  },
+  "DAM": {
+    "airport":"Damascus",
+    "country":"Syria"
+  },
+  "DAR": {
+    "airport":"Dar es Salaam",
+    "country":"Tanzania"
+  },
+  "DAY": {
+    "airport":"Dayton, OH",
+    "country":"USA"
+  },
+  "DBO": {
+    "airport":"Dubbo, N.S.W.",
+    "country":"Australia"
+  },
+  "DBQ": {
+    "airport":"Dubuque, IA",
+    "country":"USA"
+  },
+  "DBV": {
+    "airport":"Dubrovnik",
+    "country":"Croatia"
+  },
+  "DCA": {
+    "airport":"Washington DC",
+    "country":"USA"
+  },
+  "DDC": {
+    "airport":"Dodge City, KS",
+    "country":"USA"
+  },
+  "DEC": {
+    "airport":"Decatur, IL",
+    "country":"USA"
+  },
+  "DEL": {
+    "airport":"Delhi",
+    "country":"India"
+  },
+  "DEN": {
+    "airport":"Denver, CO",
+    "country":"USA"
+  },
+  "DFW": {
+    "airport":"Dallas, TX",
+    "country":"USA"
+  },
+  "DGA": {
+    "airport":"Dangriga",
+    "country":"Belize"
+  },
+  "DGO": {
+    "airport":"Durango",
+    "country":"Mexico"
+  },
+  "DGT": {
+    "airport":"Dumaguete",
+    "country":"Philippines"
+  },
+  "DHA": {
+    "airport":"Dhahran",
+    "country":"Saudi Arabia"
+  },
+  "DHN": {
+    "airport":"Dothan, AL",
+    "country":"USA"
+  },
+  "DIK": {
+    "airport":"Dickinson, ND",
+    "country":"USA"
+  },
+  "DIN": {
+    "airport":"Dien-Bien-Phu",
+    "country":"Vietnam"
+  },
+  "DJE": {
+    "airport":"Houmt Souk",
+    "country":"Tunisia"
+  },
+  "DKR": {
+    "airport":"Dakar",
+    "country":"Senegal"
+  },
+  "DLA": {
+    "airport":"Douala",
+    "country":"Cameroon"
+  },
+  "DLC": {
+    "airport":"Dalian",
+    "country":"China"
+  },
+  "DLG": {
+    "airport":"Dillingham, AK",
+    "country":"USA"
+  },
+  "DLH": {
+    "airport":"Duluth, MN",
+    "country":"USA"
+  },
+  "DLM": {
+    "airport":"Dalaman",
+    "country":"Turkey"
+  },
+  "DLU": {
+    "airport":"Dali City",
+    "country":"China"
+  },
+  "DNK": {
+    "airport":"Dnepropetrovsk",
+    "country":"Ukraine"
+  },
+  "DOH": {
+    "airport":"Doha",
+    "country":"Qatar"
+  },
+  "DOK": {
+    "airport":"Donetsk",
+    "country":"Ukraine"
+  },
+  "DOM": {
+    "airport":"Roseau",
+    "country":"Dominica"
+  },
+  "DOY": {
+    "airport":"Deboyne",
+    "country":"Papua-New Guinea"
+  },
+  "DPL": {
+    "airport":"Dipolog",
+    "country":"Philippines"
+  },
+  "DPO": {
+    "airport":"Devonport, Tas.",
+    "country":"Australia"
+  },
+  "DPS": {
+    "airport":"Denpasar, Bali",
+    "country":"Indonesia"
+  },
+  "DRO": {
+    "airport":"Durango, CO",
+    "country":"USA"
+  },
+  "DRS": {
+    "airport":"Dresden",
+    "country":"Germany"
+  },
+  "DRW": {
+    "airport":"Darwin, N.T.",
+    "country":"Australia"
+  },
+  "DSA": {
+    "airport":"Doncaster",
+    "country":"England"
+  },
+  "DSM": {
+    "airport":"Des Moines, IA",
+    "country":"USA"
+  },
+  "DTM": {
+    "airport":"Dortmund",
+    "country":"Germany"
+  },
+  "DTT - All Airports": {
+    "airport":"Detroit, MI",
+    "country":"USA"
+  },
+  "DTW": {
+    "airport":"Detroit, MI",
+    "country":"USA"
+  },
+  "DUB": {
+    "airport":"Dublin",
+    "country":"Ireland"
+  },
+  "DUD": {
+    "airport":"Dunedin",
+    "country":"New Zealand"
+  },
+  "DUJ": {
+    "airport":"Du Bois, PA",
+    "country":"USA"
+  },
+  "DUR": {
+    "airport":"Durban",
+    "country":"South Africa"
+  },
+  "DUS": {
+    "airport":"Dusseldorf",
+    "country":"Germany"
+  },
+  "DUT": {
+    "airport":"Dutch Harbor, Un Island, AK",
+    "country":"USA"
+  },
+  "DVL": {
+    "airport":"Devils Lake, ND",
+    "country":"USA"
+  },
+  "DVO": {
+    "airport":"Davao",
+    "country":"Philippines"
+  },
+  "DWD": {
+    "airport":"Dawadmi",
+    "country":"Saudi Arabia"
+  },
+  "DXB": {
+    "airport":"Dubai",
+    "country":"United Arab Emirates"
+  },
+  "DYG": {
+    "airport":"Dayong",
+    "country":"China"
+  },
+  "DYU": {
+    "airport":"Dushanbe",
+    "country":"Tajikistan"
+  },
+  "": {
+    "airport":"E top",
+    "country":""
+  },
+  "EAP - All Airports": {
+    "airport":"Mulhouse",
+    "country":"France"
+  },
+  "EAR": {
+    "airport":"Kearney, NE",
+    "country":"USA"
+  },
+  "EAS": {
+    "airport":"San Sebastian",
+    "country":"Spain"
+  },
+  "EAT": {
+    "airport":"Wenatchee, WA",
+    "country":"USA"
+  },
+  "EAU": {
+    "airport":"Eau Claire, WI",
+    "country":"USA"
+  },
+  "EBB": {
+    "airport":"Entebbe",
+    "country":"Uganda"
+  },
+  "EBJ": {
+    "airport":"Esbjerg",
+    "country":"Denmark"
+  },
+  "EDI": {
+    "airport":"Edinburgh",
+    "country":"Scotland"
+  },
+  "EEK": {
+    "airport":"Eek, AK",
+    "country":"USA"
+  },
+  "EFD": {
+    "airport":"Houston, TX",
+    "country":"USA"
+  },
+  "EFL": {
+    "airport":"Argostoli, Kefalonia Island",
+    "country":"Greece"
+  },
+  "EGE": {
+    "airport":"Vail, CO",
+    "country":"USA"
+  },
+  "EIS": {
+    "airport":"Beef Island, Tortola",
+    "country":"British Virgin Islands"
+  },
+  "EKO": {
+    "airport":"Elko, NV",
+    "country":"USA"
+  },
+  "ELD": {
+    "airport":"El Dorado, AR",
+    "country":"USA"
+  },
+  "ELH": {
+    "airport":"North Eleuthera",
+    "country":"Bahamas"
+  },
+  "ELM": {
+    "airport":"Elmira, NY",
+    "country":"USA"
+  },
+  "ELP": {
+    "airport":"El Paso, TX",
+    "country":"USA"
+  },
+  "ELS": {
+    "airport":"East London",
+    "country":"South Africa"
+  },
+  "EMA": {
+    "airport":"East Midlands",
+    "country":"England"
+  },
+  "EMD": {
+    "airport":"Emerald, Qld.",
+    "country":"Australia"
+  },
+  "ENA": {
+    "airport":"Kenai, AK",
+    "country":"USA"
+  },
+  "ERF": {
+    "airport":"Erfurt",
+    "country":"Germany"
+  },
+  "ERI": {
+    "airport":"Erie, PA",
+    "country":"USA"
+  },
+  "ESB": {
+    "airport":"Ankara",
+    "country":"Turkey"
+  },
+  "ESC": {
+    "airport":"Escanaba, MI",
+    "country":"USA"
+  },
+  "ESR": {
+    "airport":"El Salvador",
+    "country":"Chile"
+  },
+  "ETZ": {
+    "airport":"Metz",
+    "country":"France"
+  },
+  "EUG": {
+    "airport":"Eugene, OR",
+    "country":"USA"
+  },
+  "EUX": {
+    "airport":"Oranjestad",
+    "country":"St. Eustatius"
+  },
+  "EVE": {
+    "airport":"Evenes",
+    "country":"Norway"
+  },
+  "EVN": {
+    "airport":"Yerevan",
+    "country":"Armenia"
+  },
+  "EVV": {
+    "airport":"Evansville, IN",
+    "country":"USA"
+  },
+  "EWN": {
+    "airport":"New Bern, NC",
+    "country":"USA"
+  },
+  "EWR": {
+    "airport":"Newark, NJ",
+    "country":"USA"
+  },
+  "EYW": {
+    "airport":"Key West, FL",
+    "country":"USA"
+  },
+  "EZE": {
+    "airport":"Buenos Aires",
+    "country":"Argentina"
+  },
+  "": {
+    "airport":"F top",
+    "country":""
+  },
+  "FAI": {
+    "airport":"Fairbanks, AK",
+    "country":"USA"
+  },
+  "FAO": {
+    "airport":"Faro",
+    "country":"Portugal"
+  },
+  "FAR": {
+    "airport":"Fargo, ND",
+    "country":"USA"
+  },
+  "FAT": {
+    "airport":"Fresno, CA",
+    "country":"USA"
+  },
+  "FAY": {
+    "airport":"Fayetteville, NC",
+    "country":"USA"
+  },
+  "FBM": {
+    "airport":"Lubumbashi",
+    "country":"Zaire"
+  },
+  "FCA": {
+    "airport":"Kalispell, MT",
+    "country":"USA"
+  },
+  "FDF": {
+    "airport":"Fort-de-France",
+    "country":"Martinique"
+  },
+  "FDH": {
+    "airport":"Friedrichshafen",
+    "country":"Germany"
+  },
+  "FEN": {
+    "airport":"Fernando de Noronha",
+    "country":"Brazil"
+  },
+  "FIH": {
+    "airport":"Kinshasa",
+    "country":"Zaire"
+  },
+  "Fiu": {
+    "airport":"Rome",
+    "country":"Italy (FCO-Leonardo Da Vinci"
+  },
+  "FKI": {
+    "airport":"Kisangani",
+    "country":"Zaire"
+  },
+  "FKS": {
+    "airport":"Fukushima",
+    "country":"Japan"
+  },
+  "FLG": {
+    "airport":"Flagstaff, AZ",
+    "country":"USA"
+  },
+  "FLL": {
+    "airport":"Fort Lauderdale, FL",
+    "country":"USA"
+  },
+  "FLO": {
+    "airport":"Florence, SC",
+    "country":"USA"
+  },
+  "FLR": {
+    "airport":"Florence",
+    "country":"Italy"
+  },
+  "FMN": {
+    "airport":"Farmington, NM",
+    "country":"USA"
+  },
+  "FMO": {
+    "airport":"Munster",
+    "country":"Germany"
+  },
+  "FNA": {
+    "airport":"Freetown",
+    "country":"Sierra Leone"
+  },
+  "FNC": {
+    "airport":"Funchal",
+    "country":"Madeira"
+  },
+  "FNJ": {
+    "airport":"Pyongyang",
+    "country":"North Korea"
+  },
+  "FNT": {
+    "airport":"Flint, MI",
+    "country":"USA"
+  },
+  "FOC": {
+    "airport":"Fuzhou",
+    "country":"China"
+  },
+  "FOD": {
+    "airport":"Fort Dodge, IA",
+    "country":"USA"
+  },
+  "FPO": {
+    "airport":"Freeport, Grand Bahama Island",
+    "country":"Bahamas"
+  },
+  "FRA": {
+    "airport":"Frankfurt",
+    "country":"Germany"
+  },
+  "FRS": {
+    "airport":"Flores",
+    "country":"Guatemala"
+  },
+  "FRU": {
+    "airport":"Bishkek",
+    "country":"Kyrgyzstan"
+  },
+  "FSC": {
+    "airport":"Figari, Corsica",
+    "country":"France"
+  },
+  "FSD": {
+    "airport":"Sioux Falls, SD",
+    "country":"USA"
+  },
+  "FSM": {
+    "airport":"Fort Smith, AR",
+    "country":"USA"
+  },
+  "FTE": {
+    "airport":"El Calafate",
+    "country":"Argentina"
+  },
+  "FUE": {
+    "airport":"Puerto del Rosario, Fuerteventura Island",
+    "country":"Canary Islands"
+  },
+  "FUK": {
+    "airport":"Fukuoka",
+    "country":"Japan"
+  },
+  "FWA": {
+    "airport":"Fort Wayne, IN",
+    "country":"USA"
+  },
+  "FYU": {
+    "airport":"Fort Yukon, AK",
+    "country":"USA"
+  },
+  "": {
+    "airport":"G top",
+    "country":""
+  },
+  "GAJ": {
+    "airport":"Yamagata",
+    "country":"Japan"
+  },
+  "GBD": {
+    "airport":"Great Bend, KS",
+    "country":"USA"
+  },
+  "GCC": {
+    "airport":"Gillette, WY",
+    "country":"USA"
+  },
+  "GCI": {
+    "airport":"Guernsey",
+    "country":"Channel Islands"
+  },
+  "GCK": {
+    "airport":"Garden City, KS",
+    "country":"USA"
+  },
+  "GCM": {
+    "airport":"Georgetown, Grand Cayman Island",
+    "country":"Cayman Islands"
+  },
+  "GDL": {
+    "airport":"Guadalajara",
+    "country":"Mexico"
+  },
+  "GDN": {
+    "airport":"Gdansk",
+    "country":"Poland"
+  },
+  "GDV": {
+    "airport":"Glendive, MT",
+    "country":"USA"
+  },
+  "GEA": {
+    "airport":"Noumea",
+    "country":"New Caledonia"
+  },
+  "GEG": {
+    "airport":"Spokane, WA",
+    "country":"USA"
+  },
+  "GEO": {
+    "airport":"Georgetown",
+    "country":"Guyana"
+  },
+  "GES": {
+    "airport":"General Santos",
+    "country":"Philippines"
+  },
+  "GFF": {
+    "airport":"Griffith, N.S.W.",
+    "country":"Australia"
+  },
+  "GFK": {
+    "airport":"Grand Forks, ND",
+    "country":"USA"
+  },
+  "GGG": {
+    "airport":"Longview, TX",
+    "country":"USA"
+  },
+  "GGT": {
+    "airport":"George Town, Great Exuma Island",
+    "country":"Bahamas"
+  },
+  "GHB": {
+    "airport":"Governor's Harbour, Eleuthera Island",
+    "country":"Bahamas"
+  },
+  "GIG": {
+    "airport":"Rio de Janeiro",
+    "country":"Brazil"
+  },
+  "GIS": {
+    "airport":"Gisborne",
+    "country":"New Zealand"
+  },
+  "GJT": {
+    "airport":"Grand Junction, CO",
+    "country":"USA"
+  },
+  "GLA": {
+    "airport":"Glasgow",
+    "country":"Scotland"
+  },
+  "GLH": {
+    "airport":"Greenville, MS",
+    "country":"USA"
+  },
+  "GLT": {
+    "airport":"Gladstone, Qld.",
+    "country":"Australia"
+  },
+  "GMP": {
+    "airport":"Seoul, Korea",
+    "country":"Republic of"
+  },
+  "GND": {
+    "airport":"St. George's",
+    "country":"Grenada"
+  },
+  "GNV": {
+    "airport":"Gainesville, FL",
+    "country":"USA"
+  },
+  "GOA": {
+    "airport":"Genoa",
+    "country":"Italy"
+  },
+  "GOJ": {
+    "airport":"Nizhniy Novgorod",
+    "country":"Russia"
+  },
+  "GOT": {
+    "airport":"Gothenburg",
+    "country":"Sweden"
+  },
+  "GOV": {
+    "airport":"Gove, N.T.",
+    "country":"Australia"
+  },
+  "GPT": {
+    "airport":"Gulfport, MS",
+    "country":"USA"
+  },
+  "GRB": {
+    "airport":"Green Bay, WI",
+    "country":"USA"
+  },
+  "GRI": {
+    "airport":"Grand Island, NE",
+    "country":"USA"
+  },
+  "GRK": {
+    "airport":"Killeen, TX",
+    "country":"USA"
+  },
+  "GRR": {
+    "airport":"Grand Rapids, MI",
+    "country":"USA"
+  },
+  "GRU": {
+    "airport":"Sao Paulo",
+    "country":"Brazil"
+  },
+  "GRX": {
+    "airport":"Granada",
+    "country":"Spain"
+  },
+  "GRZ": {
+    "airport":"Graz",
+    "country":"Austria"
+  },
+  "GSO": {
+    "airport":"Greensboro, NC",
+    "country":"USA"
+  },
+  "GSP": {
+    "airport":"Greenville, SC",
+    "country":"USA"
+  },
+  "GTF": {
+    "airport":"Great Falls, MT",
+    "country":"USA"
+  },
+  "GTR": {
+    "airport":"Columbus, MS",
+    "country":"USA"
+  },
+  "GUA": {
+    "airport":"Guatemala City",
+    "country":"Guatemala"
+  },
+  "GUC": {
+    "airport":"Gunnison, CO",
+    "country":"USA"
+  },
+  "GUM": {
+    "airport":"Agana",
+    "country":"Guam"
+  },
+  "GVA": {
+    "airport":"Geneva",
+    "country":"Switzerland"
+  },
+  "GYD": {
+    "airport":"Baku",
+    "country":"Azerbaijan"
+  },
+  "GYE": {
+    "airport":"Guayaquil",
+    "country":"Ecuador"
+  },
+  "GYM": {
+    "airport":"Guaymas",
+    "country":"Mexico"
+  },
+  "": {
+    "airport":"H top",
+    "country":""
+  },
+  "HAD": {
+    "airport":"Halmstad",
+    "country":"Sweden"
+  },
+  "HAH": {
+    "airport":"Moroni",
+    "country":"Comoro Islands"
+  },
+  "HAJ": {
+    "airport":"Hannover",
+    "country":"Germany"
+  },
+  "HAK": {
+    "airport":"Haikou, Hainan Island",
+    "country":"China"
+  },
+  "HAM": {
+    "airport":"Hamburg",
+    "country":"Germany"
+  },
+  "HAN": {
+    "airport":"Hanoi",
+    "country":"Vietnam"
+  },
+  "HAU": {
+    "airport":"Haugesund",
+    "country":"Norway"
+  },
+  "HAV": {
+    "airport":"Havana",
+    "country":"Cuba"
+  },
+  "HBA": {
+    "airport":"Hobart, Tas.",
+    "country":"Australia"
+  },
+  "HBE": {
+    "airport":"Alexandria",
+    "country":"Egypt"
+  },
+  "HCN": {
+    "airport":"Hengchun",
+    "country":"Taiwan"
+  },
+  "HDY": {
+    "airport":"Hat Yai",
+    "country":"Thailand"
+  },
+  "HEL": {
+    "airport":"Helsinki",
+    "country":"Finland"
+  },
+  "HER": {
+    "airport":"Heraklion, Crete",
+    "country":"Greece"
+  },
+  "HET": {
+    "airport":"Hohhot",
+    "country":"China"
+  },
+  "HFE": {
+    "airport":"Hefei",
+    "country":"China"
+  },
+  "HFT": {
+    "airport":"Hammerfest",
+    "country":"Norway"
+  },
+  "HGH": {
+    "airport":"Hangzhou",
+    "country":"China"
+  },
+  "HGN": {
+    "airport":"Mae Hong Son",
+    "country":"Thailand"
+  },
+  "HGR": {
+    "airport":"Hagerstown, MD",
+    "country":"USA"
+  },
+  "HHH": {
+    "airport":"Hilton Head Island, SC",
+    "country":"USA"
+  },
+  "HIB": {
+    "airport":"Hibbing, MN",
+    "country":"USA"
+  },
+  "HID": {
+    "airport":"Horn Island, Qld.",
+    "country":"Australia"
+  },
+  "HII": {
+    "airport":"Lake Havasu City, AZ",
+    "country":"USA"
+  },
+  "HIR": {
+    "airport":"Honiara, Guadalcanal",
+    "country":"Solomon Islands"
+  },
+  "HKD": {
+    "airport":"Hakodate",
+    "country":"Japan"
+  },
+  "HKG": {
+    "airport":"Hong Kong",
+    "country":"China"
+  },
+  "HKK": {
+    "airport":"Hokitika",
+    "country":"New Zealand"
+  },
+  "HKT": {
+    "airport":"Phuket",
+    "country":"Thailand"
+  },
+  "HLD": {
+    "airport":"Hailar",
+    "country":"China"
+  },
+  "HLN": {
+    "airport":"Helena, MT",
+    "country":"USA"
+  },
+  "HLZ": {
+    "airport":"Hamilton",
+    "country":"New Zealand"
+  },
+  "HMO": {
+    "airport":"Hermosillo",
+    "country":"Mexico"
+  },
+  "HMV": {
+    "airport":"Hemavan",
+    "country":"Sweden"
+  },
+  "HND": {
+    "airport":"Tokyo",
+    "country":"Japan"
+  },
+  "HNL": {
+    "airport":"Honolulu, Oahu, HI",
+    "country":"USA"
+  },
+  "HNM": {
+    "airport":"Hana, Maui, HI",
+    "country":"USA"
+  },
+  "HOB": {
+    "airport":"Hobbs, NM",
+    "country":"USA"
+  },
+  "HOM": {
+    "airport":"Homer, AK",
+    "country":"USA"
+  },
+  "HON": {
+    "airport":"Huron, SD",
+    "country":"USA"
+  },
+  "HOQ": {
+    "airport":"Hof",
+    "country":"Germany"
+  },
+  "HOT": {
+    "airport":"Hot Springs, AR",
+    "country":"USA"
+  },
+  "HOU": {
+    "airport":"Houston, TX",
+    "country":"USA"
+  },
+  "HPN": {
+    "airport":"White Plains, NY",
+    "country":"USA"
+  },
+  "HRB": {
+    "airport":"Harbin",
+    "country":"China"
+  },
+  "HRE": {
+    "airport":"Harare",
+    "country":"Zimbabwe"
+  },
+  "HRG": {
+    "airport":"Hurghada",
+    "country":"Egypt"
+  },
+  "HRK": {
+    "airport":"Kharkov",
+    "country":"Ukraine"
+  },
+  "HRL": {
+    "airport":"Harlingen, TX",
+    "country":"USA"
+  },
+  "HRO": {
+    "airport":"Harrison, AR",
+    "country":"USA"
+  },
+  "HSG": {
+    "airport":"Saga",
+    "country":"Japan"
+  },
+  "HSN": {
+    "airport":"Zhoushan",
+    "country":"China"
+  },
+  "HSV": {
+    "airport":"Huntsville, AL",
+    "country":"USA"
+  },
+  "HTI": {
+    "airport":"Hamilton Island, Whitsunday Island, Qld.",
+    "country":"Australia"
+  },
+  "HTS": {
+    "airport":"Huntington, WV",
+    "country":"USA"
+  },
+  "HUI": {
+    "airport":"Hue",
+    "country":"Vietnam"
+  },
+  "HUN": {
+    "airport":"Hualien",
+    "country":"Taiwan"
+  },
+  "HUY": {
+    "airport":"Humberside",
+    "country":"England"
+  },
+  "HVN": {
+    "airport":"New Haven, CT",
+    "country":"USA"
+  },
+  "HVR": {
+    "airport":"Havre, MT",
+    "country":"USA"
+  },
+  "HYA": {
+    "airport":"Hyannis, MA",
+    "country":"USA"
+  },
+  "HYD": {
+    "airport":"Hyderabad",
+    "country":"India"
+  },
+  "HYS": {
+    "airport":"Hays, KS",
+    "country":"USA"
+  },
+  "": {
+    "airport":"I top",
+    "country":""
+  },
+  "IAD": {
+    "airport":"Washington DC",
+    "country":"USA"
+  },
+  "IAH": {
+    "airport":"Houston, TX",
+    "country":"USA"
+  },
+  "IBA": {
+    "airport":"Ibadan",
+    "country":"Nigeria"
+  },
+  "IBZ": {
+    "airport":"Ibiza",
+    "country":"Spain"
+  },
+  "ICN": {
+    "airport":"Seoul, Korea",
+    "country":"Republic of"
+  },
+  "ICT": {
+    "airport":"Wichita, KS",
+    "country":"USA"
+  },
+  "IDA": {
+    "airport":"Idaho Falls, ID",
+    "country":"USA"
+  },
+  "IGM": {
+    "airport":"Kingman, AZ",
+    "country":"USA"
+  },
+  "IKT": {
+    "airport":"Irkutsk, Siberia",
+    "country":"Russia"
+  },
+  "ILG": {
+    "airport":"Wilmington, DE",
+    "country":"USA"
+  },
+  "ILM": {
+    "airport":"Wilmington, NC",
+    "country":"USA"
+  },
+  "ILO": {
+    "airport":"Iloilo",
+    "country":"Philippines"
+  },
+  "ILY": {
+    "airport":"Islay Island",
+    "country":"Scotland"
+  },
+  "IMT": {
+    "airport":"Iron Mountain, MI",
+    "country":"USA"
+  },
+  "IND": {
+    "airport":"Indianapolis, IN",
+    "country":"USA"
+  },
+  "INL": {
+    "airport":"International Falls, MN",
+    "country":"USA"
+  },
+  "INN": {
+    "airport":"Innsbruck",
+    "country":"Austria"
+  },
+  "INV": {
+    "airport":"Inverness",
+    "country":"Scotland"
+  },
+  "IOA": {
+    "airport":"Ioannina",
+    "country":"Greece"
+  },
+  "IPC": {
+    "airport":"Hanga Roa, Easter Island",
+    "country":"Chile"
+  },
+  "IPH": {
+    "airport":"Ipoh",
+    "country":"Malaysia"
+  },
+  "IPL": {
+    "airport":"El Centro, CA",
+    "country":"USA"
+  },
+  "IPT": {
+    "airport":"Williamsport, PA",
+    "country":"USA"
+  },
+  "IRK": {
+    "airport":"Kirksville, MO",
+    "country":"USA"
+  },
+  "ISA": {
+    "airport":"Mount Isa, Qld.",
+    "country":"Australia"
+  },
+  "ISB": {
+    "airport":"Islamabad-Rawalpindi",
+    "country":"Pakistan"
+  },
+  "ISN": {
+    "airport":"Williston, ND",
+    "country":"USA"
+  },
+  "ISP": {
+    "airport":"Islip, NY",
+    "country":"USA"
+  },
+  "IST": {
+    "airport":"Istanbul",
+    "country":"Turkey"
+  },
+  "ITH": {
+    "airport":"Ithaca, NY",
+    "country":"USA"
+  },
+  "ITM": {
+    "airport":"Osaka",
+    "country":"Japan"
+  },
+  "IVC": {
+    "airport":"Invercargill",
+    "country":"New Zealand"
+  },
+  "IVL": {
+    "airport":"Ivalo",
+    "country":"Finland"
+  },
+  "IWD": {
+    "airport":"Ironwood, MI",
+    "country":"USA"
+  },
+  "IWJ": {
+    "airport":"Iwami",
+    "country":"Japan"
+  },
+  "IYK": {
+    "airport":"Inyokern, CA",
+    "country":"USA"
+  },
+  "IZO": {
+    "airport":"Izumo",
+    "country":"Japan"
+  },
+  "": {
+    "airport":"J top",
+    "country":""
+  },
+  "JAC": {
+    "airport":"Jackson Hole, WY",
+    "country":"USA"
+  },
+  "JAL": {
+    "airport":"Jalapa",
+    "country":"Mexico"
+  },
+  "JAN": {
+    "airport":"Jackson, MS",
+    "country":"USA"
+  },
+  "JAX": {
+    "airport":"Jacksonville, FL",
+    "country":"USA"
+  },
+  "JBR": {
+    "airport":"Jonesboro, AR",
+    "country":"USA"
+  },
+  "JED": {
+    "airport":"Jeddah",
+    "country":"Saudi Arabia"
+  },
+  "JER": {
+    "airport":"Jersey",
+    "country":"Channel Islands"
+  },
+  "JFK": {
+    "airport":"New York, NY",
+    "country":"USA"
+  },
+  "JHB": {
+    "airport":"Johor Bahru",
+    "country":"Malaysia"
+  },
+  "JHM": {
+    "airport":"Kapalua, Maui, HI",
+    "country":"USA"
+  },
+  "JHW": {
+    "airport":"Jamestown, NY",
+    "country":"USA"
+  },
+  "JIB": {
+    "airport":"Djibouti",
+    "country":"Djibouti"
+  },
+  "JIJ": {
+    "airport":"Jijiga",
+    "country":"Ethiopia"
+  },
+  "JIK": {
+    "airport":"Ikaria Island",
+    "country":"Greece"
+  },
+  "JKG": {
+    "airport":"Jonkoping",
+    "country":"Sweden"
+  },
+  "JKH": {
+    "airport":"Chios",
+    "country":"Greece"
+  },
+  "JKT - All Airports": {
+    "airport":"Jakarta, Java",
+    "country":"Indonesia"
+  },
+  "JLN": {
+    "airport":"Joplin, MO",
+    "country":"USA"
+  },
+  "JMK": {
+    "airport":"Mikonos",
+    "country":"Greece"
+  },
+  "JMS": {
+    "airport":"Jamestown, ND",
+    "country":"USA"
+  },
+  "JMU": {
+    "airport":"Jiamusi",
+    "country":"China"
+  },
+  "JNB": {
+    "airport":"Johannesburg",
+    "country":"South Africa"
+  },
+  "JNU": {
+    "airport":"Juneau, AK",
+    "country":"USA"
+  },
+  "JOE": {
+    "airport":"Joensuu",
+    "country":"Finland"
+  },
+  "JOG": {
+    "airport":"Yogyakarta, Java",
+    "country":"Indonesia"
+  },
+  "JST": {
+    "airport":"Johnstown, PA",
+    "country":"USA"
+  },
+  "JTR": {
+    "airport":"Thira, Santorini Island",
+    "country":"Greece"
+  },
+  "JYV": {
+    "airport":"Jyvaskyla",
+    "country":"Finland"
+  },
+  "JZH": {
+    "airport":"Songpan Jiuzhai Huanglong",
+    "country":"China"
+  },
+  "": {
+    "airport":"K top",
+    "country":""
+  },
+  "KAJ": {
+    "airport":"Kajaani",
+    "country":"Finland"
+  },
+  "KAT": {
+    "airport":"Kaitaia",
+    "country":"New Zealand"
+  },
+  "KBL": {
+    "airport":"Kabul",
+    "country":"Afghanistan"
+  },
+  "KBP": {
+    "airport":"Kiev",
+    "country":"Ukraine"
+  },
+  "KBR": {
+    "airport":"Kota Bharu",
+    "country":"Malaysia"
+  },
+  "KBV": {
+    "airport":"Krabi",
+    "country":"Thailand"
+  },
+  "KCH": {
+    "airport":"Kuching, Sarawak",
+    "country":"Malaysia"
+  },
+  "KEF": {
+    "airport":"Reykjavik",
+    "country":"Iceland"
+  },
+  "KEL": {
+    "airport":"Kiel",
+    "country":"Germany"
+  },
+  "KGC": {
+    "airport":"Kingscote, Kangaroo Island, S.A.",
+    "country":"Australia"
+  },
+  "KGD": {
+    "airport":"Kaliningrad",
+    "country":"Russia"
+  },
+  "KGF": {
+    "airport":"Karaganda",
+    "country":"Kazakhstan"
+  },
+  "KGI": {
+    "airport":"Kalgoorlie, W.A.",
+    "country":"Australia"
+  },
+  "KGL": {
+    "airport":"Kigali",
+    "country":"Rwanda"
+  },
+  "KGS": {
+    "airport":"Kos",
+    "country":"Greece"
+  },
+  "KHG": {
+    "airport":"Kashi",
+    "country":"China"
+  },
+  "KHH": {
+    "airport":"Kaohsiung",
+    "country":"Taiwan"
+  },
+  "KHI": {
+    "airport":"Karachi",
+    "country":"Pakistan"
+  },
+  "KHN": {
+    "airport":"Nanchang",
+    "country":"China"
+  },
+  "KID": {
+    "airport":"Kristianstad",
+    "country":"Sweden"
+  },
+  "KIJ": {
+    "airport":"Niigata",
+    "country":"Japan"
+  },
+  "KIN": {
+    "airport":"Kingston",
+    "country":"Jamaica"
+  },
+  "KIV": {
+    "airport":"Chisinau",
+    "country":"Moldova"
+  },
+  "KIX": {
+    "airport":"Osaka",
+    "country":"Japan"
+  },
+  "KKC": {
+    "airport":"Khon Kaen",
+    "country":"Thailand"
+  },
+  "KKE": {
+    "airport":"Kerikeri",
+    "country":"New Zealand"
+  },
+  "KLO": {
+    "airport":"Kalibo",
+    "country":"Philippines"
+  },
+  "KLR": {
+    "airport":"Kalmar",
+    "country":"Sweden"
+  },
+  "KLU": {
+    "airport":"Klagenfurt",
+    "country":"Austria"
+  },
+  "KMG": {
+    "airport":"Kunming",
+    "country":"China"
+  },
+  "KMI": {
+    "airport":"Miyazaki",
+    "country":"Japan"
+  },
+  "KMJ": {
+    "airport":"Kumamoto",
+    "country":"Japan"
+  },
+  "KMQ": {
+    "airport":"Komatsu",
+    "country":"Japan"
+  },
+  "KOI": {
+    "airport":"Kirkwall, Orkney Islands",
+    "country":"Scotland"
+  },
+  "KOJ": {
+    "airport":"Kagoshima",
+    "country":"Japan"
+  },
+  "KOK": {
+    "airport":"Kokkola",
+    "country":"Finland"
+  },
+  "KRF": {
+    "airport":"Kramfors",
+    "country":"Sweden"
+  },
+  "KRK": {
+    "airport":"Krakow",
+    "country":"Poland"
+  },
+  "KRN": {
+    "airport":"Kiruna",
+    "country":"Sweden"
+  },
+  "KRP": {
+    "airport":"Karup",
+    "country":"Denmark"
+  },
+  "KRS": {
+    "airport":"Kristiansand",
+    "country":"Norway"
+  },
+  "KRT": {
+    "airport":"Khartoum",
+    "country":"Sudan"
+  },
+  "KSA": {
+    "airport":"Kosrae",
+    "country":"Micronesia"
+  },
+  "KSD": {
+    "airport":"Karlstad",
+    "country":"Sweden"
+  },
+  "KTA": {
+    "airport":"Karratha, W.A.",
+    "country":"Australia"
+  },
+  "KTM": {
+    "airport":"Kathmandu",
+    "country":"Nepal"
+  },
+  "KTN": {
+    "airport":"Ketchikan, AK",
+    "country":"USA"
+  },
+  "KTP": {
+    "airport":"Kingston",
+    "country":"Jamaica"
+  },
+  "KTT": {
+    "airport":"Kittila",
+    "country":"Finland"
+  },
+  "KTW": {
+    "airport":"Katowice",
+    "country":"Poland"
+  },
+  "KUA": {
+    "airport":"Kuantan",
+    "country":"Malaysia"
+  },
+  "KUH": {
+    "airport":"Kushiro",
+    "country":"Japan"
+  },
+  "KUL": {
+    "airport":"Kuala Lumpur",
+    "country":"Malaysia"
+  },
+  "KUO": {
+    "airport":"Kuopio",
+    "country":"Finland"
+  },
+  "KWI": {
+    "airport":"Kuwait",
+    "country":"Kuwait"
+  },
+  "KWL": {
+    "airport":"Guilin",
+    "country":"China"
+  },
+  "KZO": {
+    "airport":"Kzyl Orda",
+    "country":"Kazakhstan"
+  },
+  "": {
+    "airport":"L top",
+    "country":""
+  },
+  "LAD": {
+    "airport":"Luanda",
+    "country":"Angola"
+  },
+  "LAI": {
+    "airport":"Lannion",
+    "country":"France"
+  },
+  "LAN": {
+    "airport":"Lansing, MI",
+    "country":"USA"
+  },
+  "LAP": {
+    "airport":"La Paz",
+    "country":"Mexico"
+  },
+  "LAR": {
+    "airport":"Laramie, WY",
+    "country":"USA"
+  },
+  "LAS": {
+    "airport":"Las Vegas, NV",
+    "country":"USA"
+  },
+  "LAW": {
+    "airport":"Lawton, OK",
+    "country":"USA"
+  },
+  "LAX": {
+    "airport":"Los Angeles, CA",
+    "country":"USA"
+  },
+  "LBA": {
+    "airport":"Leeds",
+    "country":"England"
+  },
+  "LBB": {
+    "airport":"Lubbock, TX",
+    "country":"USA"
+  },
+  "LBE": {
+    "airport":"Latrobe, PA",
+    "country":"USA"
+  },
+  "LBF": {
+    "airport":"North Platte, NE",
+    "country":"USA"
+  },
+  "LBL": {
+    "airport":"Liberal, KS",
+    "country":"USA"
+  },
+  "LBP": {
+    "airport":"Long Banga",
+    "country":"Malaysia"
+  },
+  "LBV": {
+    "airport":"Libreville",
+    "country":"Gabon"
+  },
+  "LCA": {
+    "airport":"Larnaca",
+    "country":"Cyprus"
+  },
+  "LCG": {
+    "airport":"La Coruna",
+    "country":"Spain"
+  },
+  "LCH": {
+    "airport":"Lake Charles, LA",
+    "country":"USA"
+  },
+  "LCY": {
+    "airport":"London",
+    "country":"England"
+  },
+  "LDE": {
+    "airport":"Lourdes",
+    "country":"France"
+  },
+  "LDU": {
+    "airport":"Lahad Datu, Sabah",
+    "country":"Malaysia"
+  },
+  "LDY": {
+    "airport":"Londonderry",
+    "country":"Northern Ireland"
+  },
+  "LEB": {
+    "airport":"Lebanon, NH",
+    "country":"USA"
+  },
+  "LED": {
+    "airport":"St. Petersburg",
+    "country":"Russia"
+  },
+  "LEH": {
+    "airport":"Le Havre",
+    "country":"France"
+  },
+  "LEI": {
+    "airport":"Almeria",
+    "country":"Spain"
+  },
+  "LEJ": {
+    "airport":"Leipzig",
+    "country":"Germany"
+  },
+  "LEN": {
+    "airport":"Leon",
+    "country":"Spain"
+  },
+  "LEW": {
+    "airport":"Lewiston, ME",
+    "country":"USA"
+  },
+  "LEX": {
+    "airport":"Lexington, KY",
+    "country":"USA"
+  },
+  "LFT": {
+    "airport":"Lafayette, LA",
+    "country":"USA"
+  },
+  "LFW": {
+    "airport":"Lome",
+    "country":"Togo"
+  },
+  "LGA": {
+    "airport":"New York, NY",
+    "country":"USA"
+  },
+  "LGB": {
+    "airport":"Long Beach, CA",
+    "country":"USA"
+  },
+  "LGI": {
+    "airport":"Deadmans Cay, Long Island",
+    "country":"Bahamas"
+  },
+  "LGK": {
+    "airport":"Langkawi",
+    "country":"Malaysia"
+  },
+  "LGP": {
+    "airport":"Legaspi",
+    "country":"Philippines"
+  },
+  "LGW": {
+    "airport":"London",
+    "country":"England"
+  },
+  "LHE": {
+    "airport":"Lahore",
+    "country":"Pakistan"
+  },
+  "LHR": {
+    "airport":"London",
+    "country":"England"
+  },
+  "LHW": {
+    "airport":"Lanzhou",
+    "country":"China"
+  },
+  "LIG": {
+    "airport":"Limoges",
+    "country":"France"
+  },
+  "LIH": {
+    "airport":"Lihue, Kauai, HI",
+    "country":"USA"
+  },
+  "LIL": {
+    "airport":"Lille",
+    "country":"France"
+  },
+  "LIM": {
+    "airport":"Lima",
+    "country":"Peru"
+  },
+  "LIN": {
+    "airport":"Milan",
+    "country":"Italy"
+  },
+  "LIR": {
+    "airport":"Liberia",
+    "country":"Costa Rica"
+  },
+  "LIS": {
+    "airport":"Lisbon",
+    "country":"Portugal"
+  },
+  "LIT": {
+    "airport":"Little Rock, AR",
+    "country":"USA"
+  },
+  "LJG": {
+    "airport":"Lijiang City",
+    "country":"China"
+  },
+  "LJU": {
+    "airport":"Ljubljana",
+    "country":"Slovenia"
+  },
+  "LLA": {
+    "airport":"Lulea",
+    "country":"Sweden"
+  },
+  "LLW": {
+    "airport":"Lilongwe",
+    "country":"Malawi"
+  },
+  "LMT": {
+    "airport":"Klamath Falls, OR",
+    "country":"USA"
+  },
+  "LNJ": {
+    "airport":"Lincang",
+    "country":"China"
+  },
+  "LNK": {
+    "airport":"Lincoln, NE",
+    "country":"USA"
+  },
+  "LNS": {
+    "airport":"Lancaster, PA",
+    "country":"USA"
+  },
+  "LNY": {
+    "airport":"Lanai City, Lanai, HI",
+    "country":"USA"
+  },
+  "LNZ": {
+    "airport":"Linz",
+    "country":"Austria"
+  },
+  "LON - All Airports": {
+    "airport":"London",
+    "country":"England"
+  },
+  "LOS": {
+    "airport":"Lagos",
+    "country":"Nigeria"
+  },
+  "LOV": {
+    "airport":"Monclova",
+    "country":"Mexico"
+  },
+  "LPA": {
+    "airport":"Las Palmas, Grand Canary Island",
+    "country":"Canary Islands"
+  },
+  "LPB": {
+    "airport":"La Paz",
+    "country":"Bolivia"
+  },
+  "LPI": {
+    "airport":"Linkoping",
+    "country":"Sweden"
+  },
+  "LPL": {
+    "airport":"Liverpool",
+    "country":"England"
+  },
+  "LRD": {
+    "airport":"Laredo, TX",
+    "country":"USA"
+  },
+  "LRE": {
+    "airport":"Longreach, Qld.",
+    "country":"Australia"
+  },
+  "LRM": {
+    "airport":"La Romana",
+    "country":"Dominican Republic"
+  },
+  "LRT": {
+    "airport":"Lorient",
+    "country":"France"
+  },
+  "LRU": {
+    "airport":"Las Cruces, NM",
+    "country":"USA"
+  },
+  "LSC": {
+    "airport":"La Serena",
+    "country":"Chile"
+  },
+  "LSE": {
+    "airport":"La Crosse, WI",
+    "country":"USA"
+  },
+  "LSI": {
+    "airport":"Lerwick, Shetland Islands",
+    "country":"Scotland"
+  },
+  "LST": {
+    "airport":"Launceston, Tas.",
+    "country":"Australia"
+  },
+  "LTN": {
+    "airport":"Luton",
+    "country":"England"
+  },
+  "LTO": {
+    "airport":"Loreto",
+    "country":"Mexico"
+  },
+  "LUA": {
+    "airport":"Lukla",
+    "country":"Nepal"
+  },
+  "LUG": {
+    "airport":"Lugano",
+    "country":"Switzerland"
+  },
+  "LUN": {
+    "airport":"Lusaka",
+    "country":"Zambia"
+  },
+  "LUP": {
+    "airport":"Kalaupapa, Molokai, HI",
+    "country":"USA"
+  },
+  "LUX": {
+    "airport":"Luxembourg",
+    "country":"Luxembourg"
+  },
+  "LWB": {
+    "airport":"Greenbrier, WV",
+    "country":"USA"
+  },
+  "LWS": {
+    "airport":"Lewiston, ID",
+    "country":"USA"
+  },
+  "LWT": {
+    "airport":"Lewistown, MT",
+    "country":"USA"
+  },
+  "LXA": {
+    "airport":"Lhasa, Tibet",
+    "country":"China"
+  },
+  "LXR": {
+    "airport":"Luxor",
+    "country":"Egypt"
+  },
+  "LYC": {
+    "airport":"Lycksele",
+    "country":"Sweden"
+  },
+  "LYH": {
+    "airport":"Lynchburg, VA",
+    "country":"USA"
+  },
+  "LYR": {
+    "airport":"Longyearbyen, Svalbard",
+    "country":"Norway"
+  },
+  "LYS": {
+    "airport":"Lyon",
+    "country":"France"
+  },
+  "LZC": {
+    "airport":"Lazaro Cardenas",
+    "country":"Mexico"
+  },
+  "LZN": {
+    "airport":"Nangen",
+    "country":"Taiwan"
+  },
+  "": {
+    "airport":"M top",
+    "country":""
+  },
+  "MAA": {
+    "airport":"Chennai (Madras)",
+    "country":"India"
+  },
+  "MAD": {
+    "airport":"Madrid",
+    "country":"Spain"
+  },
+  "MAF": {
+    "airport":"Midland, TX",
+    "country":"USA"
+  },
+  "MAH": {
+    "airport":"Mao, Minorca",
+    "country":"Spain"
+  },
+  "MAJ": {
+    "airport":"Majuro",
+    "country":"Marshall Islands"
+  },
+  "MAN": {
+    "airport":"Manchester",
+    "country":"England"
+  },
+  "MAO": {
+    "airport":"Manaus",
+    "country":"Brazil"
+  },
+  "MAR": {
+    "airport":"Maracaibo",
+    "country":"Venezuela"
+  },
+  "MAY": {
+    "airport":"Mangrove Cay, Andros Island",
+    "country":"Bahamas"
+  },
+  "MBA": {
+    "airport":"Mombasa",
+    "country":"Kenya"
+  },
+  "MBJ": {
+    "airport":"Montego Bay",
+    "country":"Jamaica"
+  },
+  "MBL": {
+    "airport":"Manistee, MI",
+    "country":"USA"
+  },
+  "MBS": {
+    "airport":"Saginaw, MI",
+    "country":"USA"
+  },
+  "MCI": {
+    "airport":"Kansas City, MO",
+    "country":"USA"
+  },
+  "MCK": {
+    "airport":"McCook, NE",
+    "country":"USA"
+  },
+  "MCN": {
+    "airport":"Macon, GA",
+    "country":"USA"
+  },
+  "MCO": {
+    "airport":"Orlando, FL",
+    "country":"USA"
+  },
+  "MCT": {
+    "airport":"Muscat",
+    "country":"Oman"
+  },
+  "MCW": {
+    "airport":"Mason City, IA",
+    "country":"USA"
+  },
+  "MCY": {
+    "airport":"Maroochydore, Qld.",
+    "country":"Australia"
+  },
+  "MDE": {
+    "airport":"Medellin",
+    "country":"Colombia"
+  },
+  "MDG": {
+    "airport":"Mudanjiang",
+    "country":"China"
+  },
+  "MDT": {
+    "airport":"Harrisburg, PA",
+    "country":"USA"
+  },
+  "MDW": {
+    "airport":"Chicago, IL",
+    "country":"USA"
+  },
+  "MDZ": {
+    "airport":"Mendoza",
+    "country":"Argentina"
+  },
+  "MEI": {
+    "airport":"Meridian, MS",
+    "country":"USA"
+  },
+  "MEL": {
+    "airport":"Melbourne, Vic.",
+    "country":"Australia"
+  },
+  "MEM": {
+    "airport":"Memphis, TN",
+    "country":"USA"
+  },
+  "MES": {
+    "airport":"Medan, Sumatra",
+    "country":"Indonesia"
+  },
+  "MEX": {
+    "airport":"Mexico City",
+    "country":"Mexico"
+  },
+  "MFE": {
+    "airport":"McAllen, TX",
+    "country":"USA"
+  },
+  "MFK": {
+    "airport":"Matsu",
+    "country":"Taiwan"
+  },
+  "MFR": {
+    "airport":"Medford, OR",
+    "country":"USA"
+  },
+  "MGA": {
+    "airport":"Managua",
+    "country":"Nicaragua"
+  },
+  "MGB": {
+    "airport":"Mount Gambier, S.A.",
+    "country":"Australia"
+  },
+  "MGM": {
+    "airport":"Montgomery, AL",
+    "country":"USA"
+  },
+  "MGQ": {
+    "airport":"Mogadishu",
+    "country":"Somalia"
+  },
+  "MGW": {
+    "airport":"Morgantown, WV",
+    "country":"USA"
+  },
+  "MHH": {
+    "airport":"Marsh Harbour, Abaco Island",
+    "country":"Bahamas"
+  },
+  "MHK": {
+    "airport":"Manhattan, KS",
+    "country":"USA"
+  },
+  "MHP": {
+    "airport":"Minsk",
+    "country":"Belarus"
+  },
+  "MHQ": {
+    "airport":"Mariehamn, Aland",
+    "country":"Finland"
+  },
+  "MHT": {
+    "airport":"Manchester, NH",
+    "country":"USA"
+  },
+  "MIA": {
+    "airport":"Miami, FL",
+    "country":"USA"
+  },
+  "MID": {
+    "airport":"Merida",
+    "country":"Mexico"
+  },
+  "MIG": {
+    "airport":"Mian Yang",
+    "country":"China"
+  },
+  "MII": {
+    "airport":"Marilia",
+    "country":"Brazil"
+  },
+  "MIL - All Airports": {
+    "airport":"Milan",
+    "country":"Italy"
+  },
+  "MIM": {
+    "airport":"Merimbula, N.S.W.",
+    "country":"Australia"
+  },
+  "MIR": {
+    "airport":"Monastir",
+    "country":"Tunisia"
+  },
+  "MJT": {
+    "airport":"Mytilene, Lesbos Island",
+    "country":"Greece"
+  },
+  "MJV": {
+    "airport":"Murcia",
+    "country":"Spain"
+  },
+  "MKE": {
+    "airport":"Milwaukee, WI",
+    "country":"USA"
+  },
+  "MKG": {
+    "airport":"Muskegon, MI",
+    "country":"USA"
+  },
+  "MKK": {
+    "airport":"Hoolehua, Molokai, HI",
+    "country":"USA"
+  },
+  "MKL": {
+    "airport":"Jackson, TN",
+    "country":"USA"
+  },
+  "MKY": {
+    "airport":"Mackay, Qld.",
+    "country":"Australia"
+  },
+  "MLA": {
+    "airport":"Valletta",
+    "country":"Malta"
+  },
+  "MLB": {
+    "airport":"Melbourne, FL",
+    "country":"USA"
+  },
+  "MLE": {
+    "airport":"Male",
+    "country":"Maldives"
+  },
+  "MLH": {
+    "airport":"Mulhouse",
+    "country":"France"
+  },
+  "MLI": {
+    "airport":"Moline, IL",
+    "country":"USA"
+  },
+  "MLM": {
+    "airport":"Morelia",
+    "country":"Mexico"
+  },
+  "MLN": {
+    "airport":"Melilla",
+    "country":"Spain"
+  },
+  "MLS": {
+    "airport":"Miles City, MT",
+    "country":"USA"
+  },
+  "MLU": {
+    "airport":"Monroe, LA",
+    "country":"USA"
+  },
+  "MMA - All Airports": {
+    "airport":"Malmo",
+    "country":"Sweden"
+  },
+  "MMB": {
+    "airport":"Memanbetsu",
+    "country":"Japan"
+  },
+  "MME": {
+    "airport":"Teesside",
+    "country":"England"
+  },
+  "MMK": {
+    "airport":"Murmansk",
+    "country":"Russia"
+  },
+  "MMX": {
+    "airport":"Malmo",
+    "country":"Sweden"
+  },
+  "MNL": {
+    "airport":"Manila",
+    "country":"Philippines"
+  },
+  "MOB": {
+    "airport":"Mobile, AL",
+    "country":"USA"
+  },
+  "MOD": {
+    "airport":"Modesto, CA",
+    "country":"USA"
+  },
+  "MOT": {
+    "airport":"Minot, ND",
+    "country":"USA"
+  },
+  "MOW - All Airports": {
+    "airport":"Moscow",
+    "country":"Russia"
+  },
+  "MPL": {
+    "airport":"Montpellier",
+    "country":"France"
+  },
+  "MPM": {
+    "airport":"Maputo",
+    "country":"Mozambique"
+  },
+  "MPW": {
+    "airport":"Mariupol",
+    "country":"Ukraine"
+  },
+  "MQL": {
+    "airport":"Mildura, Vic.",
+    "country":"Australia"
+  },
+  "MQP": {
+    "airport":"Nelspruit",
+    "country":"South Africa"
+  },
+  "MQT": {
+    "airport":"Marquette, MI",
+    "country":"USA"
+  },
+  "MRS": {
+    "airport":"Marseille",
+    "country":"France"
+  },
+  "MRU": {
+    "airport":"Mahebourg",
+    "country":"Mauritius"
+  },
+  "MRY": {
+    "airport":"Monterey, CA",
+    "country":"USA"
+  },
+  "MRZ": {
+    "airport":"Moree, N.S.W.",
+    "country":"Australia"
+  },
+  "MSJ": {
+    "airport":"Misawa",
+    "country":"Japan"
+  },
+  "MSL": {
+    "airport":"Muscle Shoals, AL",
+    "country":"USA"
+  },
+  "MSN": {
+    "airport":"Madison, WI",
+    "country":"USA"
+  },
+  "MSO": {
+    "airport":"Missoula, MT",
+    "country":"USA"
+  },
+  "MSP": {
+    "airport":"Minneapolis, MN",
+    "country":"USA"
+  },
+  "MSQ": {
+    "airport":"Minsk",
+    "country":"Belarus"
+  },
+  "MSS": {
+    "airport":"Massena, NY",
+    "country":"USA"
+  },
+  "MSU": {
+    "airport":"Maseru",
+    "country":"Lesotho"
+  },
+  "MSY": {
+    "airport":"New Orleans, LA",
+    "country":"USA"
+  },
+  "MTJ": {
+    "airport":"Montrose, CO",
+    "country":"USA"
+  },
+  "MTS": {
+    "airport":"Manzini",
+    "country":"Swaziland"
+  },
+  "MTY": {
+    "airport":"Monterrey",
+    "country":"Mexico"
+  },
+  "MUC": {
+    "airport":"Munich",
+    "country":"Germany"
+  },
+  "MVD": {
+    "airport":"Montevideo",
+    "country":"Uruguay"
+  },
+  "MVY": {
+    "airport":"Martha's Vineyard, MA",
+    "country":"USA"
+  },
+  "MWA": {
+    "airport":"Marion, IL",
+    "country":"USA"
+  },
+  "MWH": {
+    "airport":"Moses Lake, WA",
+    "country":"USA"
+  },
+  "MXL": {
+    "airport":"Mexicali",
+    "country":"Mexico"
+  },
+  "MXP": {
+    "airport":"Milan",
+    "country":"Italy"
+  },
+  "MXX": {
+    "airport":"Mora",
+    "country":"Sweden"
+  },
+  "MYA": {
+    "airport":"Moruya, N.S.W.",
+    "country":"Australia"
+  },
+  "MYJ": {
+    "airport":"Matsuyama",
+    "country":"Japan"
+  },
+  "MYR": {
+    "airport":"Myrtle Beach, SC",
+    "country":"USA"
+  },
+  "MYY": {
+    "airport":"Miri, Sarawak",
+    "country":"Malaysia"
+  },
+  "MZT": {
+    "airport":"Mazatlan",
+    "country":"Mexico"
+  },
+  "MZV": {
+    "airport":"Mulu",
+    "country":"Malaysia"
+  },
+  "": {
+    "airport":"N top",
+    "country":""
+  },
+  "NAA": {
+    "airport":"Narrabri, N.S.W.",
+    "country":"Australia"
+  },
+  "NAN": {
+    "airport":"Nadi",
+    "country":"Fiji"
+  },
+  "NAP": {
+    "airport":"Naples",
+    "country":"Italy"
+  },
+  "NAS": {
+    "airport":"Nassau",
+    "country":"Bahamas"
+  },
+  "NBO": {
+    "airport":"Nairobi",
+    "country":"Kenya"
+  },
+  "NCE": {
+    "airport":"Nice",
+    "country":"France"
+  },
+  "NCL": {
+    "airport":"Newcastle",
+    "country":"England"
+  },
+  "NCP": {
+    "airport":"Cubi Point Nas",
+    "country":"Philippines"
+  },
+  "NCY": {
+    "airport":"Annecy",
+    "country":"France"
+  },
+  "NDJ": {
+    "airport":"N'Djamena",
+    "country":"Chad"
+  },
+  "NDR": {
+    "airport":"Nador",
+    "country":"Morocco"
+  },
+  "NGB": {
+    "airport":"Ningbo",
+    "country":"China"
+  },
+  "NGO": {
+    "airport":"Nagoya",
+    "country":"Japan"
+  },
+  "NGS": {
+    "airport":"Nagasaki",
+    "country":"Japan"
+  },
+  "NIM": {
+    "airport":"Niamey",
+    "country":"Niger"
+  },
+  "NKC": {
+    "airport":"Nouakchott",
+    "country":"Mauritania"
+  },
+  "NKG": {
+    "airport":"Nanjing",
+    "country":"China"
+  },
+  "NKM": {
+    "airport":"Nagoya",
+    "country":"Japan"
+  },
+  "NLD": {
+    "airport":"Nuevo Laredo",
+    "country":"Mexico"
+  },
+  "NNG": {
+    "airport":"Nanning",
+    "country":"China"
+  },
+  "NNM": {
+    "airport":"Naryan Mar",
+    "country":"Russia"
+  },
+  "NOC": {
+    "airport":"Connaught",
+    "country":"Ireland"
+  },
+  "NOU": {
+    "airport":"Noumea",
+    "country":"New Caledonia"
+  },
+  "NPE": {
+    "airport":"Napier",
+    "country":"New Zealand"
+  },
+  "NRA": {
+    "airport":"Narrandera, N.S.W.",
+    "country":"Australia"
+  },
+  "NRK": {
+    "airport":"Norrkoping",
+    "country":"Sweden"
+  },
+  "NRT": {
+    "airport":"Tokyo",
+    "country":"Japan"
+  },
+  "NSB": {
+    "airport":"Alice Town, North Bimini Island",
+    "country":"Bahamas"
+  },
+  "NSI": {
+    "airport":"Yaounde",
+    "country":"Cameroon"
+  },
+  "NSN": {
+    "airport":"Nelson",
+    "country":"New Zealand"
+  },
+  "NST": {
+    "airport":"Nakhon Si Thammarat",
+    "country":"Thailand"
+  },
+  "NTE": {
+    "airport":"Nantes",
+    "country":"France"
+  },
+  "NTL": {
+    "airport":"Newcastle, N.S.W.",
+    "country":"Australia"
+  },
+  "NTQ": {
+    "airport":"Wajima",
+    "country":"Japan"
+  },
+  "NUE": {
+    "airport":"Nuremberg",
+    "country":"Germany"
+  },
+  "NVK": {
+    "airport":"Narvik",
+    "country":"Norway"
+  },
+  "NWI": {
+    "airport":"Norwich",
+    "country":"England"
+  },
+  "NYC - All Airports": {
+    "airport":"New York, NY",
+    "country":"USA"
+  },
+  "": {
+    "airport":"O top",
+    "country":""
+  },
+  "OAG": {
+    "airport":"Orange, N.S.W.",
+    "country":"Australia"
+  },
+  "OAJ": {
+    "airport":"Jacksonville, NC",
+    "country":"USA"
+  },
+  "OAK": {
+    "airport":"Oakland, CA",
+    "country":"USA"
+  },
+  "OAX": {
+    "airport":"Oaxaca",
+    "country":"Mexico"
+  },
+  "OBO": {
+    "airport":"Obihiro",
+    "country":"Japan"
+  },
+  "OCJ": {
+    "airport":"Ocho Rios",
+    "country":"Jamaica"
+  },
+  "ODS": {
+    "airport":"Odessa",
+    "country":"Ukraine"
+  },
+  "OER": {
+    "airport":"Ornskoldsvik",
+    "country":"Sweden"
+  },
+  "OGG": {
+    "airport":"Kahului, Maui, HI",
+    "country":"USA"
+  },
+  "OGS": {
+    "airport":"Ogdensburg, NY",
+    "country":"USA"
+  },
+  "OIT": {
+    "airport":"Oita",
+    "country":"Japan"
+  },
+  "OKA": {
+    "airport":"Naha, Okinawa",
+    "country":"Japan"
+  },
+  "OKC": {
+    "airport":"Oklahoma City, OK",
+    "country":"USA"
+  },
+  "OKD": {
+    "airport":"Sapporo",
+    "country":"Japan"
+  },
+  "OLB": {
+    "airport":"Olbia, Sardinia",
+    "country":"Italy"
+  },
+  "OLF": {
+    "airport":"Wolf Point, MT",
+    "country":"USA"
+  },
+  "OLP": {
+    "airport":"Olympic Dam, S.A.",
+    "country":"Australia"
+  },
+  "OLU": {
+    "airport":"Columbus, NE",
+    "country":"USA"
+  },
+  "OMA": {
+    "airport":"Omaha, NE",
+    "country":"USA"
+  },
+  "OME": {
+    "airport":"Nome, AK",
+    "country":"USA"
+  },
+  "OMS": {
+    "airport":"Omsk, Siberia",
+    "country":"Russia"
+  },
+  "ONJ": {
+    "airport":"Odate Noshiro",
+    "country":"Japan"
+  },
+  "ONT": {
+    "airport":"Ontario, CA",
+    "country":"USA"
+  },
+  "OOK": {
+    "airport":"Toksook Bay, AK",
+    "country":"USA"
+  },
+  "OOL": {
+    "airport":"Gold Coast, Qld.",
+    "country":"Australia"
+  },
+  "OPO": {
+    "airport":"Porto",
+    "country":"Portugal"
+  },
+  "ORB": {
+    "airport":"Orebro",
+    "country":"Sweden"
+  },
+  "ORD": {
+    "airport":"Chicago, IL",
+    "country":"USA"
+  },
+  "ORF": {
+    "airport":"Norfolk, VA",
+    "country":"USA"
+  },
+  "ORK": {
+    "airport":"Cork",
+    "country":"Ireland"
+  },
+  "ORY": {
+    "airport":"Paris",
+    "country":"France"
+  },
+  "OSA - All Airports": {
+    "airport":"Osaka",
+    "country":"Japan"
+  },
+  "OSD": {
+    "airport":"Ostersund",
+    "country":"Sweden"
+  },
+  "OSH": {
+    "airport":"Oshkosh, WI",
+    "country":"USA"
+  },
+  "OSL": {
+    "airport":"Oslo",
+    "country":"Norway"
+  },
+  "OSR": {
+    "airport":"Ostrava",
+    "country":"Czech Republic"
+  },
+  "OTH": {
+    "airport":"North Bend, OR",
+    "country":"USA"
+  },
+  "OTP": {
+    "airport":"Bucharest",
+    "country":"Romania"
+  },
+  "OUA": {
+    "airport":"Ouagadougou",
+    "country":"Burkina Faso"
+  },
+  "OUL": {
+    "airport":"Oulu",
+    "country":"Finland"
+  },
+  "OVB": {
+    "airport":"Novosibirsk, Siberia",
+    "country":"Russia"
+  },
+  "OWB": {
+    "airport":"Owensboro, KY",
+    "country":"USA"
+  },
+  "OXB": {
+    "airport":"Bissau",
+    "country":"Guinea-Bissau"
+  },
+  "OXR": {
+    "airport":"Oxnard, CA",
+    "country":"USA"
+  },
+  "": {
+    "airport":"P top",
+    "country":""
+  },
+  "PAD": {
+    "airport":"Paderborn",
+    "country":"Germany"
+  },
+  "PAH": {
+    "airport":"Paducah, KY",
+    "country":"USA"
+  },
+  "PAP": {
+    "airport":"Port-au-Prince",
+    "country":"Haiti"
+  },
+  "PAR - All Airports": {
+    "airport":"Paris",
+    "country":"France"
+  },
+  "PBC": {
+    "airport":"Puebla",
+    "country":"Mexico"
+  },
+  "PBI": {
+    "airport":"West Palm Beach, FL",
+    "country":"USA"
+  },
+  "PBM": {
+    "airport":"Paramaribo",
+    "country":"Suriname"
+  },
+  "PBO": {
+    "airport":"Paraburdoo, W.A.",
+    "country":"Australia"
+  },
+  "PDL": {
+    "airport":"Ponta Delgada, Sao Miguel Island",
+    "country":"Azores"
+  },
+  "PDS": {
+    "airport":"Piedras Negras",
+    "country":"Mexico"
+  },
+  "PDT": {
+    "airport":"Pendleton, OR",
+    "country":"USA"
+  },
+  "PDX": {
+    "airport":"Portland, OR",
+    "country":"USA"
+  },
+  "PEG": {
+    "airport":"Perugia",
+    "country":"Italy"
+  },
+  "PEN": {
+    "airport":"Penang, Penang Island",
+    "country":"Malaysia"
+  },
+  "PER": {
+    "airport":"Perth, W.A.",
+    "country":"Australia"
+  },
+  "PEW": {
+    "airport":"Peshawar",
+    "country":"Pakistan"
+  },
+  "PFN": {
+    "airport":"Panama City, FL",
+    "country":"USA"
+  },
+  "PFO": {
+    "airport":"Paphos",
+    "country":"Cyprus"
+  },
+  "PGA": {
+    "airport":"Page, AZ",
+    "country":"USA"
+  },
+  "PGF": {
+    "airport":"Perpignan",
+    "country":"France"
+  },
+  "PGV": {
+    "airport":"Greenville, NC",
+    "country":"USA"
+  },
+  "PHE": {
+    "airport":"Port Hedland, W.A.",
+    "country":"Australia"
+  },
+  "PHF": {
+    "airport":"Newport News, VA",
+    "country":"USA"
+  },
+  "PHL": {
+    "airport":"Philadelphia, PA",
+    "country":"USA"
+  },
+  "PHS": {
+    "airport":"Phitsanulok",
+    "country":"Thailand"
+  },
+  "PHX": {
+    "airport":"Phoenix, AZ",
+    "country":"USA"
+  },
+  "PIA": {
+    "airport":"Peoria, IL",
+    "country":"USA"
+  },
+  "PIB": {
+    "airport":"Laurel, MS",
+    "country":"USA"
+  },
+  "PID": {
+    "airport":"Nassau",
+    "country":"Bahamas"
+  },
+  "PIE": {
+    "airport":"St. Petersburg, FL",
+    "country":"USA"
+  },
+  "PIH": {
+    "airport":"Pocatello, ID",
+    "country":"USA"
+  },
+  "PIK": {
+    "airport":"Glasgow",
+    "country":"Scotland"
+  },
+  "PIR": {
+    "airport":"Pierre, SD",
+    "country":"USA"
+  },
+  "PIT": {
+    "airport":"Pittsburgh, PA",
+    "country":"USA"
+  },
+  "PJA": {
+    "airport":"Pajala",
+    "country":"Sweden"
+  },
+  "PKB": {
+    "airport":"Parkersburg, WV",
+    "country":"USA"
+  },
+  "PKC": {
+    "airport":"Petropavlovsk-Kamchatsky, Siberia",
+    "country":"Russia"
+  },
+  "PKE": {
+    "airport":"Parkes, N.S.W.",
+    "country":"Australia"
+  },
+  "PLJ": {
+    "airport":"Placencia",
+    "country":"Belize"
+  },
+  "PLM": {
+    "airport":"Palembang, Sumatra",
+    "country":"Indonesia"
+  },
+  "PLN": {
+    "airport":"Pellston, MI",
+    "country":"USA"
+  },
+  "PLO": {
+    "airport":"Port Lincoln, S.A.",
+    "country":"Australia"
+  },
+  "PLS": {
+    "airport":"Providenciales Island",
+    "country":"Turks and Caicos Islands"
+  },
+  "PLX": {
+    "airport":"Semipalatinsk",
+    "country":"Kazakhstan"
+  },
+  "PMC": {
+    "airport":"Puerto Montt",
+    "country":"Chile"
+  },
+  "PMI": {
+    "airport":"Palma, Mallorca",
+    "country":"Spain"
+  },
+  "PMO": {
+    "airport":"Palermo, Sicily",
+    "country":"Italy"
+  },
+  "PMR": {
+    "airport":"Palmerston North",
+    "country":"New Zealand"
+  },
+  "PMW": {
+    "airport":"Palmas",
+    "country":"Brazil"
+  },
+  "PNA": {
+    "airport":"Pamplona",
+    "country":"Spain"
+  },
+  "PNC": {
+    "airport":"Ponca City, OK",
+    "country":"USA"
+  },
+  "PND": {
+    "airport":"Punta Gorda",
+    "country":"Belize"
+  },
+  "PNH": {
+    "airport":"Phnom Penh",
+    "country":"Cambodia"
+  },
+  "PNI": {
+    "airport":"Pohnpei",
+    "country":"Micronesia"
+  },
+  "PNS": {
+    "airport":"Pensacola, FL",
+    "country":"USA"
+  },
+  "POA": {
+    "airport":"Porto Alegre",
+    "country":"Brazil"
+  },
+  "POM": {
+    "airport":"Port Moresby",
+    "country":"Papua-New Guinea"
+  },
+  "POP": {
+    "airport":"Puerto Plata",
+    "country":"Dominican Republic"
+  },
+  "POS": {
+    "airport":"Port of Spain",
+    "country":"Trinidad and Tobago"
+  },
+  "POZ": {
+    "airport":"Poznan",
+    "country":"Poland"
+  },
+  "PPG": {
+    "airport":"Pago Pago, Tutuila",
+    "country":"American Samoa"
+  },
+  "PPP": {
+    "airport":"Proserpine, Qld.",
+    "country":"Australia"
+  },
+  "PPS": {
+    "airport":"Puerto Princesa",
+    "country":"Philippines"
+  },
+  "PPT": {
+    "airport":"Papeete, Tahiti",
+    "country":"French Polynesia"
+  },
+  "PQI": {
+    "airport":"Presque Isle, ME",
+    "country":"USA"
+  },
+  "PQQ": {
+    "airport":"Port Macquarie, N.S.W.",
+    "country":"Australia"
+  },
+  "PRC": {
+    "airport":"Prescott, AZ",
+    "country":"USA"
+  },
+  "PRG": {
+    "airport":"Prague",
+    "country":"Czech Republic"
+  },
+  "PSA": {
+    "airport":"Pisa",
+    "country":"Italy"
+  },
+  "PSC": {
+    "airport":"Pasco, WA",
+    "country":"USA"
+  },
+  "PSM": {
+    "airport":"Portsmouth, NH",
+    "country":"USA"
+  },
+  "PSP": {
+    "airport":"Palm Springs, CA",
+    "country":"USA"
+  },
+  "PTJ": {
+    "airport":"Portland, Vic.",
+    "country":"Australia"
+  },
+  "PTP": {
+    "airport":"Pointe-A-Pitre, Grande-Terre",
+    "country":"Guadeloupe"
+  },
+  "PTY": {
+    "airport":"Panama City",
+    "country":"Panama"
+  },
+  "PUB": {
+    "airport":"Pueblo, CO",
+    "country":"USA"
+  },
+  "PUF": {
+    "airport":"Pau",
+    "country":"France"
+  },
+  "PUJ": {
+    "airport":"Punta Cana",
+    "country":"Dominican Republic"
+  },
+  "PUQ": {
+    "airport":"Punta Arenas, Tierra del Fuego",
+    "country":"Chile"
+  },
+  "PUS": {
+    "airport":"Busan, Korea",
+    "country":"Republic of"
+  },
+  "PUT": {
+    "airport":"Puttaparthi",
+    "country":"India"
+  },
+  "PUW": {
+    "airport":"Pullman, WA",
+    "country":"USA"
+  },
+  "PVC": {
+    "airport":"Provincetown, MA",
+    "country":"USA"
+  },
+  "PVD": {
+    "airport":"Providence, RI",
+    "country":"USA"
+  },
+  "PVG": {
+    "airport":"Shanghai",
+    "country":"China"
+  },
+  "PVR": {
+    "airport":"Puerto Vallarta",
+    "country":"Mexico"
+  },
+  "PWM": {
+    "airport":"Portland, ME",
+    "country":"USA"
+  },
+  "PXM": {
+    "airport":"Puerto Escondido",
+    "country":"Mexico"
+  },
+  "PXO": {
+    "airport":"Porto Santo",
+    "country":"Madeira"
+  },
+  "PXU": {
+    "airport":"Pleiku",
+    "country":"Vietnam"
+  },
+  "": {
+    "airport":"Q top",
+    "country":""
+  },
+  "QLA - All Airports": {
+    "airport":"Los Angeles, CA",
+    "country":"USA"
+  },
+  "QRO": {
+    "airport":"Queretaro",
+    "country":"Mexico"
+  },
+  "QRW": {
+    "airport":"Warri",
+    "country":"Nigeria"
+  },
+  "QSF - All Airports": {
+    "airport":"San Francisco, CA",
+    "country":"USA"
+  },
+  "": {
+    "airport":"R top",
+    "country":""
+  },
+  "RAK": {
+    "airport":"Marrakech",
+    "country":"Morocco"
+  },
+  "RAP": {
+    "airport":"Rapid City, SD",
+    "country":"USA"
+  },
+  "RAR": {
+    "airport":"Avarua, Rarotonga Island",
+    "country":"Cook Islands"
+  },
+  "RDD": {
+    "airport":"Redding, CA",
+    "country":"USA"
+  },
+  "RDM": {
+    "airport":"Redmond, OR",
+    "country":"USA"
+  },
+  "RDU": {
+    "airport":"Raleigh, NC",
+    "country":"USA"
+  },
+  "RDZ": {
+    "airport":"Rodez",
+    "country":"France"
+  },
+  "REC": {
+    "airport":"Recife",
+    "country":"Brazil"
+  },
+  "REG": {
+    "airport":"Reggio di Calabria",
+    "country":"Italy"
+  },
+  "REK - All Airports": {
+    "airport":"Reykjavik",
+    "country":"Iceland"
+  },
+  "REX": {
+    "airport":"Reynosa",
+    "country":"Mexico"
+  },
+  "RFD": {
+    "airport":"Rockford, IL",
+    "country":"USA"
+  },
+  "RGN": {
+    "airport":"Rangoon",
+    "country":"Myanmar (Burma)"
+  },
+  "RHI": {
+    "airport":"Rhinelander, WI",
+    "country":"USA"
+  },
+  "RHO": {
+    "airport":"Rhodes",
+    "country":"Greece"
+  },
+  "RIC": {
+    "airport":"Richmond, VA",
+    "country":"USA"
+  },
+  "RIO - All Airports": {
+    "airport":"Rio de Janeiro",
+    "country":"Brazil"
+  },
+  "RIW": {
+    "airport":"Riverton, WY",
+    "country":"USA"
+  },
+  "RIX": {
+    "airport":"Riga",
+    "country":"Latvia"
+  },
+  "RJL": {
+    "airport":"Logrono",
+    "country":"Spain"
+  },
+  "RKD": {
+    "airport":"Rockland, ME",
+    "country":"USA"
+  },
+  "RKS": {
+    "airport":"Rock Springs, WY",
+    "country":"USA"
+  },
+  "RKV": {
+    "airport":"Reykjavik",
+    "country":"Iceland"
+  },
+  "RMA": {
+    "airport":"Roma, Qld.",
+    "country":"Australia"
+  },
+  "RMI": {
+    "airport":"Rimini",
+    "country":"Italy"
+  },
+  "RMQ": {
+    "airport":"Taichung",
+    "country":"Taiwan"
+  },
+  "RNB": {
+    "airport":"Ronneby",
+    "country":"Sweden"
+  },
+  "RNN": {
+    "airport":"Ronne",
+    "country":"Denmark"
+  },
+  "RNO": {
+    "airport":"Reno, NV",
+    "country":"USA"
+  },
+  "RNS": {
+    "airport":"Rennes",
+    "country":"France"
+  },
+  "ROA": {
+    "airport":"Roanoke, VA",
+    "country":"USA"
+  },
+  "ROB": {
+    "airport":"Monrovia",
+    "country":"Liberia"
+  },
+  "ROC": {
+    "airport":"Rochester, NY",
+    "country":"USA"
+  },
+  "ROK": {
+    "airport":"Rockhampton, Qld.",
+    "country":"Australia"
+  },
+  "ROM - All Airports": {
+    "airport":"Rome",
+    "country":"Italy"
+  },
+  "ROR": {
+    "airport":"Koror",
+    "country":"Palau"
+  },
+  "ROT": {
+    "airport":"Rotorua",
+    "country":"New Zealand"
+  },
+  "ROV": {
+    "airport":"Rostov",
+    "country":"Russia"
+  },
+  "ROW": {
+    "airport":"Roswell, NM",
+    "country":"USA"
+  },
+  "RSA": {
+    "airport":"Santa Rosa",
+    "country":"Argentina"
+  },
+  "RSD": {
+    "airport":"Rock Sound",
+    "country":"Bahamas"
+  },
+  "RST": {
+    "airport":"Rochester, MN",
+    "country":"USA"
+  },
+  "RSW": {
+    "airport":"Fort Myers, FL",
+    "country":"USA"
+  },
+  "RTM": {
+    "airport":"Rotterdam",
+    "country":"Netherlands"
+  },
+  "RUH": {
+    "airport":"Riyadh",
+    "country":"Saudi Arabia"
+  },
+  "RUN": {
+    "airport":"Saint-Denis",
+    "country":"Reunion"
+  },
+  "RUT": {
+    "airport":"Rutland, VT",
+    "country":"USA"
+  },
+  "RVN": {
+    "airport":"Rovaniemi",
+    "country":"Finland"
+  },
+  "RXS": {
+    "airport":"Roxas City",
+    "country":"Philippines"
+  },
+  "RZE": {
+    "airport":"Rzeszow",
+    "country":"Poland"
+  },
+  "": {
+    "airport":"S top",
+    "country":""
+  },
+  "SAB": {
+    "airport":"Saba Island",
+    "country":"Saba"
+  },
+  "SAF": {
+    "airport":"Santa Fe, NM",
+    "country":"USA"
+  },
+  "SAH": {
+    "airport":"Sanaa",
+    "country":"Yemen"
+  },
+  "SAL": {
+    "airport":"San Salvador",
+    "country":"El Salvador"
+  },
+  "SAN": {
+    "airport":"San Diego, CA",
+    "country":"USA"
+  },
+  "SAO - All Airports": {
+    "airport":"Sao Paulo",
+    "country":"Brazil"
+  },
+  "SAQ": {
+    "airport":"San Andros",
+    "country":"Bahamas"
+  },
+  "SAT": {
+    "airport":"San Antonio, TX",
+    "country":"USA"
+  },
+  "SAV": {
+    "airport":"Savannah, GA",
+    "country":"USA"
+  },
+  "SAW": {
+    "airport":"Istanbul",
+    "country":"Turkey"
+  },
+  "SBA": {
+    "airport":"Santa Barbara, CA",
+    "country":"USA"
+  },
+  "SBH": {
+    "airport":"Gustavia",
+    "country":"St. Barts"
+  },
+  "SBN": {
+    "airport":"South Bend, IN",
+    "country":"USA"
+  },
+  "SBP": {
+    "airport":"San Luis Obispo, CA",
+    "country":"USA"
+  },
+  "SBS": {
+    "airport":"Steamboat Springs, CO",
+    "country":"USA"
+  },
+  "SBW": {
+    "airport":"Sibu, Sarawak",
+    "country":"Malaysia"
+  },
+  "SBY": {
+    "airport":"Salisbury, MD",
+    "country":"USA"
+  },
+  "SCE": {
+    "airport":"State College, PA",
+    "country":"USA"
+  },
+  "SCL": {
+    "airport":"Santiago",
+    "country":"Chile"
+  },
+  "SDA": {
+    "airport":"Baghdad",
+    "country":"Iraq"
+  },
+  "SDF": {
+    "airport":"Louisville, KY, USA",
+    "country":"USA"
+  },
+  "SDK": {
+    "airport":"Sandakan, Sabah",
+    "country":"Malaysia"
+  },
+  "SDL": {
+    "airport":"Sundsvall",
+    "country":"Sweden"
+  },
+  "SDP": {
+    "airport":"Sand Point, AK",
+    "country":"USA"
+  },
+  "SDQ": {
+    "airport":"Santo Domingo",
+    "country":"Dominican Republic"
+  },
+  "SDR": {
+    "airport":"Santander",
+    "country":"Spain"
+  },
+  "SDU": {
+    "airport":"Rio de Janeiro",
+    "country":"Brazil"
+  },
+  "SDY": {
+    "airport":"Sidney, MT",
+    "country":"USA"
+  },
+  "SEA": {
+    "airport":"Seattle, WA",
+    "country":"USA"
+  },
+  "SEZ": {
+    "airport":"Victoria, Mahe Island",
+    "country":"Seychelles"
+  },
+  "SFO": {
+    "airport":"San Francisco, CA",
+    "country":"USA"
+  },
+  "SFS": {
+    "airport":"Subic Bay",
+    "country":"Philippines"
+  },
+  "SFT": {
+    "airport":"Skelleftea",
+    "country":"Sweden"
+  },
+  "SGD": {
+    "airport":"Sonderborg",
+    "country":"Denmark"
+  },
+  "SGF": {
+    "airport":"Springfield, MO",
+    "country":"USA"
+  },
+  "SGN": {
+    "airport":"Ho Chi Minh City (Saigon)",
+    "country":"Vietnam"
+  },
+  "SGU": {
+    "airport":"St. George, UT",
+    "country":"USA"
+  },
+  "SGY": {
+    "airport":"Skagway, AK",
+    "country":"USA"
+  },
+  "SHA": {
+    "airport":"Shanghai",
+    "country":"China"
+  },
+  "SHD": {
+    "airport":"Shenandoah Valley Airport, VA",
+    "country":"USA"
+  },
+  "SHE": {
+    "airport":"Shenyang",
+    "country":"China"
+  },
+  "SHJ": {
+    "airport":"Sharjah",
+    "country":"United Arab Emirates"
+  },
+  "SHM": {
+    "airport":"Nanki Shirahama",
+    "country":"Japan"
+  },
+  "SHR": {
+    "airport":"Sheridan, WY",
+    "country":"USA"
+  },
+  "SHV": {
+    "airport":"Shreveport, LA",
+    "country":"USA"
+  },
+  "SID": {
+    "airport":"Santa Maria, Sal Island",
+    "country":"Cape Verde"
+  },
+  "SIN": {
+    "airport":"Singapore",
+    "country":"Singapore"
+  },
+  "SIT": {
+    "airport":"Sitka, AK",
+    "country":"USA"
+  },
+  "SJC": {
+    "airport":"San Jose, CA",
+    "country":"USA"
+  },
+  "SJD": {
+    "airport":"Los Cabos",
+    "country":"Mexico"
+  },
+  "SJJ": {
+    "airport":"Sarajevo",
+    "country":"Bosnia and Herzegovina"
+  },
+  "SJO": {
+    "airport":"San Jose",
+    "country":"Costa Rica"
+  },
+  "SJP": {
+    "airport":"Sao Jose So Rio Preto",
+    "country":"Brazil"
+  },
+  "SJT": {
+    "airport":"San Angelo, TX",
+    "country":"USA"
+  },
+  "SJU": {
+    "airport":"San Juan",
+    "country":"Puerto Rico"
+  },
+  "SJW": {
+    "airport":"Shijiazhuang",
+    "country":"China"
+  },
+  "SKB": {
+    "airport":"Basseterre",
+    "country":"St. Kitts"
+  },
+  "SKG": {
+    "airport":"Thessaloniki",
+    "country":"Greece"
+  },
+  "SKP": {
+    "airport":"Skopje",
+    "country":"Macedonia"
+  },
+  "SLC": {
+    "airport":"Salt Lake City, UT",
+    "country":"USA"
+  },
+  "SLK": {
+    "airport":"Saranac Lake, NY",
+    "country":"USA"
+  },
+  "SLN": {
+    "airport":"Salina, KS",
+    "country":"USA"
+  },
+  "SLP": {
+    "airport":"San Luis Potosi",
+    "country":"Mexico"
+  },
+  "SLU": {
+    "airport":"Castries",
+    "country":"St. Lucia"
+  },
+  "SLW": {
+    "airport":"Saltillo",
+    "country":"Mexico"
+  },
+  "SMF": {
+    "airport":"Sacramento, CA",
+    "country":"USA"
+  },
+  "SML": {
+    "airport":"Stella Maris, Long Island",
+    "country":"Bahamas"
+  },
+  "SMX": {
+    "airport":"Santa Maria, CA",
+    "country":"USA"
+  },
+  "SNA": {
+    "airport":"Orange County, CA",
+    "country":"USA"
+  },
+  "SNN": {
+    "airport":"Shannon",
+    "country":"Ireland"
+  },
+  "SOB": {
+    "airport":"Balaton",
+    "country":"Hungary"
+  },
+  "SOF": {
+    "airport":"Sofia",
+    "country":"Bulgaria"
+  },
+  "SOP": {
+    "airport":"Pinehurst, NC",
+    "country":"USA"
+  },
+  "SOU": {
+    "airport":"Southampton",
+    "country":"England"
+  },
+  "SPC": {
+    "airport":"Santa Cruz",
+    "country":"Spain"
+  },
+  "SPI": {
+    "airport":"Springfield, IL",
+    "country":"USA"
+  },
+  "SPN": {
+    "airport":"Saipan",
+    "country":"Northern Mariana Islands"
+  },
+  "SPS": {
+    "airport":"Wichita Falls, TX",
+    "country":"USA"
+  },
+  "SPU": {
+    "airport":"Split",
+    "country":"Croatia"
+  },
+  "SQO": {
+    "airport":"Storuman",
+    "country":"Sweden"
+  },
+  "SRQ": {
+    "airport":"Sarasota, FL",
+    "country":"USA"
+  },
+  "SSA": {
+    "airport":"Salvador",
+    "country":"Brazil"
+  },
+  "SSG": {
+    "airport":"Malabo, Bioko Island",
+    "country":"Equatorial Guinea"
+  },
+  "SSH": {
+    "airport":"Sharm El Sheikh",
+    "country":"Egypt"
+  },
+  "STC": {
+    "airport":"St. Cloud, MN",
+    "country":"USA"
+  },
+  "STI": {
+    "airport":"Santiago",
+    "country":"Dominican Republic"
+  },
+  "STL": {
+    "airport":"St. Louis, MO",
+    "country":"USA"
+  },
+  "STN": {
+    "airport":"London",
+    "country":"England"
+  },
+  "STO - All Airports": {
+    "airport":"Stockholm",
+    "country":"Sweden"
+  },
+  "STR": {
+    "airport":"Stuttgart",
+    "country":"Germany"
+  },
+  "STS": {
+    "airport":"Santa Rosa, CA",
+    "country":"USA"
+  },
+  "STT": {
+    "airport":"Charlotte Amalie, St. Thomas",
+    "country":"U.S. Virgin Islands"
+  },
+  "STX": {
+    "airport":"Christiansted, St. Croix",
+    "country":"U.S. Virgin Islands"
+  },
+  "SUB": {
+    "airport":"Surabaya, Java",
+    "country":"Indonesia"
+  },
+  "SUF": {
+    "airport":"Lamezia Terme",
+    "country":"Italy"
+  },
+  "SUN": {
+    "airport":"Sun Valley, ID",
+    "country":"USA"
+  },
+  "SUV": {
+    "airport":"Suva",
+    "country":"Fiji"
+  },
+  "SUX": {
+    "airport":"Sioux City, IA",
+    "country":"USA"
+  },
+  "SVC": {
+    "airport":"Silver City, NM",
+    "country":"USA"
+  },
+  "SVD": {
+    "airport":"Kingstown",
+    "country":"St. Vincent"
+  },
+  "SVG": {
+    "airport":"Stavanger",
+    "country":"Norway"
+  },
+  "SVO": {
+    "airport":"Moscow",
+    "country":"Russia"
+  },
+  "SVQ": {
+    "airport":"Seville",
+    "country":"Spain"
+  },
+  "SVX": {
+    "airport":"Ekaterinburg, Siberia",
+    "country":"Russia"
+  },
+  "SWA": {
+    "airport":"Shantou",
+    "country":"China"
+  },
+  "SWF": {
+    "airport":"Newburgh, NY",
+    "country":"USA"
+  },
+  "SXB": {
+    "airport":"Strasbourg",
+    "country":"France"
+  },
+  "SXF": {
+    "airport":"Berlin",
+    "country":"Germany"
+  },
+  "SXM": {
+    "airport":"Philipsburg",
+    "country":"St. Maarten"
+  },
+  "SYD": {
+    "airport":"Sydney, N.S.W.",
+    "country":"Australia"
+  },
+  "SYR": {
+    "airport":"Syracuse, NY",
+    "country":"USA"
+  },
+  "SYX": {
+    "airport":"Sanya",
+    "country":"China"
+  },
+  "SYY": {
+    "airport":"Stornoway, Isle of Lewis",
+    "country":"Scotland"
+  },
+  "SZF": {
+    "airport":"Samsun",
+    "country":"Turkey"
+  },
+  "SZG": {
+    "airport":"Salzburg",
+    "country":"Austria"
+  },
+  "SZX": {
+    "airport":"Shenzhen",
+    "country":"China"
+  },
+  "SZZ": {
+    "airport":"Szczecin",
+    "country":"Poland"
+  },
+  "": {
+    "airport":"T top",
+    "country":""
+  },
+  "TAB": {
+    "airport":"Tobago",
+    "country":"Trinidad and Tobago"
+  },
+  "TAC": {
+    "airport":"Tacloban",
+    "country":"Philippines"
+  },
+  "TAE": {
+    "airport":"Taegu",
+    "country":"South Korea"
+  },
+  "TAG": {
+    "airport":"Tagbilaran",
+    "country":"Philippines"
+  },
+  "TAK": {
+    "airport":"Takamatsu",
+    "country":"Japan"
+  },
+  "TAM": {
+    "airport":"Tampico",
+    "country":"Mexico"
+  },
+  "TAO": {
+    "airport":"Qingdao",
+    "country":"China"
+  },
+  "TAP": {
+    "airport":"Tapachula",
+    "country":"Mexico"
+  },
+  "TAS": {
+    "airport":"Tashkent",
+    "country":"Uzbekistan"
+  },
+  "TBN": {
+    "airport":"Fort Leonard Wood, MO",
+    "country":"USA"
+  },
+  "TBS": {
+    "airport":"Tbilisi",
+    "country":"Georgia"
+  },
+  "TBZ": {
+    "airport":"Tabriz",
+    "country":"Iran"
+  },
+  "TCB": {
+    "airport":"Treasure Cay, Abaco Island",
+    "country":"Bahamas"
+  },
+  "TCI - All Airports": {
+    "airport":"Tenerife Island",
+    "country":"Canary Islands"
+  },
+  "TCP": {
+    "airport":"Taba",
+    "country":"Egypt"
+  },
+  "TDX": {
+    "airport":"Trat",
+    "country":"Thailand"
+  },
+  "TEN": {
+    "airport":"Tongren",
+    "country":"China"
+  },
+  "TER": {
+    "airport":"Angra do Heroismo, Terceira Island",
+    "country":"Azores"
+  },
+  "TEX": {
+    "airport":"Telluride, CO",
+    "country":"USA"
+  },
+  "TFN": {
+    "airport":"Santa Cruz de Tenerife",
+    "country":"Canary Islands"
+  },
+  "TFS": {
+    "airport":"Tenerife Island",
+    "country":"Canary Islands"
+  },
+  "TGG": {
+    "airport":"Kuala Terengganu",
+    "country":"Malaysia"
+  },
+  "TGU": {
+    "airport":"Tegucigalpa",
+    "country":"Honduras"
+  },
+  "TGZ": {
+    "airport":"Tuxtla Gutierrez",
+    "country":"Mexico"
+  },
+  "THF": {
+    "airport":"Berlin",
+    "country":"Germany"
+  },
+  "THR": {
+    "airport":"Tehran",
+    "country":"Iran"
+  },
+  "THS": {
+    "airport":"Sukhothai",
+    "country":"Thailand"
+  },
+  "TIA": {
+    "airport":"Tirana",
+    "country":"Albania"
+  },
+  "TIJ": {
+    "airport":"Tijuana",
+    "country":"Mexico"
+  },
+  "TIP": {
+    "airport":"Tripoli",
+    "country":"Libya"
+  },
+  "TIU": {
+    "airport":"Timaru",
+    "country":"New Zealand"
+  },
+  "TKK": {
+    "airport":"Truk",
+    "country":"Micronesia"
+  },
+  "TKU": {
+    "airport":"Turku",
+    "country":"Finland"
+  },
+  "TLC": {
+    "airport":"Toluca",
+    "country":"Mexico"
+  },
+  "TLH": {
+    "airport":"Tallahassee, FL",
+    "country":"USA"
+  },
+  "TLL": {
+    "airport":"Tallinn",
+    "country":"Estonia"
+  },
+  "TLN": {
+    "airport":"Toulon",
+    "country":"France"
+  },
+  "TLS": {
+    "airport":"Toulouse",
+    "country":"France"
+  },
+  "TLV": {
+    "airport":"Tel Aviv",
+    "country":"Israel"
+  },
+  "TMJ": {
+    "airport":"Termez",
+    "country":"Uzbekistan"
+  },
+  "TMP": {
+    "airport":"Tampere",
+    "country":"Finland"
+  },
+  "TMW": {
+    "airport":"Tamworth, N.S.W.",
+    "country":"Australia"
+  },
+  "TNG": {
+    "airport":"Tangier",
+    "country":"Morocco"
+  },
+  "TNR": {
+    "airport":"Antananarivo",
+    "country":"Madagascar"
+  },
+  "TOL": {
+    "airport":"Toledo, OH",
+    "country":"USA"
+  },
+  "TOP": {
+    "airport":"Topeka, KS",
+    "country":"USA"
+  },
+  "TOS": {
+    "airport":"Tromso",
+    "country":"Norway"
+  },
+  "TPA": {
+    "airport":"Tampa, FL",
+    "country":"USA"
+  },
+  "TPE": {
+    "airport":"Taipei",
+    "country":"Taiwan"
+  },
+  "TPQ": {
+    "airport":"Tepic",
+    "country":"Mexico"
+  },
+  "TRC": {
+    "airport":"Torreon",
+    "country":"Mexico"
+  },
+  "TRD": {
+    "airport":"Trondheim",
+    "country":"Norway"
+  },
+  "TRE": {
+    "airport":"Balephuil",
+    "country":"Scotland"
+  },
+  "TRF": {
+    "airport":"Sandefjord",
+    "country":"Norway"
+  },
+  "TRG": {
+    "airport":"Tauranga",
+    "country":"New Zealand"
+  },
+  "TRI": {
+    "airport":"Tri-City Airport, TN",
+    "country":"USA"
+  },
+  "TRN": {
+    "airport":"Turin",
+    "country":"Italy"
+  },
+  "TRS": {
+    "airport":"Trieste",
+    "country":"Italy"
+  },
+  "TSA": {
+    "airport":"Taipei",
+    "country":"Taiwan"
+  },
+  "TSE": {
+    "airport":"Astana",
+    "country":"Kazakhstan"
+  },
+  "TSN": {
+    "airport":"Tianjin",
+    "country":"China"
+  },
+  "TST": {
+    "airport":"Trang",
+    "country":"Thailand"
+  },
+  "TSV": {
+    "airport":"Townsville, Qld.",
+    "country":"Australia"
+  },
+  "TTN": {
+    "airport":"Trenton, NJ",
+    "country":"USA"
+  },
+  "TUL": {
+    "airport":"Tulsa, OK",
+    "country":"USA"
+  },
+  "TUN": {
+    "airport":"Tunis",
+    "country":"Tunisia"
+  },
+  "TUO": {
+    "airport":"Taupo",
+    "country":"New Zealand"
+  },
+  "TUP": {
+    "airport":"Tupelo, MS",
+    "country":"USA"
+  },
+  "TUS": {
+    "airport":"Tucson, AZ",
+    "country":"USA"
+  },
+  "TVC": {
+    "airport":"Traverse City, MI",
+    "country":"USA"
+  },
+  "TVF": {
+    "airport":"Thief River Falls, MN",
+    "country":"USA"
+  },
+  "TVI - All Airports": {
+    "airport":"Tenerife Island",
+    "country":"Canary Islands"
+  },
+  "TWF": {
+    "airport":"Twin Falls, ID",
+    "country":"USA"
+  },
+  "TWU": {
+    "airport":"Tawau, Sabah",
+    "country":"Malaysia"
+  },
+  "TXK": {
+    "airport":"Texarkana, AR",
+    "country":"USA"
+  },
+  "TXL": {
+    "airport":"Berlin",
+    "country":"Germany"
+  },
+  "TYN": {
+    "airport":"Taiyuan",
+    "country":"China"
+  },
+  "TYO - All Airports": {
+    "airport":"Tokyo",
+    "country":"Japan"
+  },
+  "TYR": {
+    "airport":"Tyler, TX",
+    "country":"USA"
+  },
+  "TYS": {
+    "airport":"Knoxville, TN",
+    "country":"USA"
+  },
+  "TZN": {
+    "airport":"South Andros",
+    "country":"Bahamas"
+  },
+  "": {
+    "airport":"U top",
+    "country":""
+  },
+  "UBP": {
+    "airport":"Ubon Ratchathani",
+    "country":"Thailand"
+  },
+  "UIN": {
+    "airport":"Quincy, IL",
+    "country":"USA"
+  },
+  "UIO": {
+    "airport":"Quito",
+    "country":"Ecuador"
+  },
+  "UIP": {
+    "airport":"Quimper",
+    "country":"France"
+  },
+  "UKK": {
+    "airport":"Ust Kamenogorsk",
+    "country":"Kazakhstan"
+  },
+  "ULN": {
+    "airport":"Ulan Bator",
+    "country":"Mongolia"
+  },
+  "UME": {
+    "airport":"Umea",
+    "country":"Sweden"
+  },
+  "UNA": {
+    "airport":"Una",
+    "country":"Brazil"
+  },
+  "UNK": {
+    "airport":"Unalakleet, AK",
+    "country":"USA"
+  },
+  "UNN": {
+    "airport":"Ranong",
+    "country":"Thailand"
+  },
+  "UPG": {
+    "airport":"Ujung Pandang, Sulawesi",
+    "country":"Indonesia"
+  },
+  "URC": {
+    "airport":"Urumqi, Sinkiang",
+    "country":"China"
+  },
+  "URO": {
+    "airport":"Rouen",
+    "country":"France"
+  },
+  "URT": {
+    "airport":"Surat Thani",
+    "country":"Thailand"
+  },
+  "USH": {
+    "airport":"Ushuaia, Tierra del Fuego",
+    "country":"Argentina"
+  },
+  "USM": {
+    "airport":"Koh Samui",
+    "country":"Thailand"
+  },
+  "UTH": {
+    "airport":"Udon Thani",
+    "country":"Thailand"
+  },
+  "UTP": {
+    "airport":"Utapao",
+    "country":"Thailand"
+  },
+  "UVF": {
+    "airport":"Vieux Fort",
+    "country":"St. Lucia"
+  },
+  "": {
+    "airport":"V top",
+    "country":""
+  },
+  "VAA": {
+    "airport":"Vaasa",
+    "country":"Finland"
+  },
+  "VAR": {
+    "airport":"Varna",
+    "country":"Bulgaria"
+  },
+  "VBY": {
+    "airport":"Visby",
+    "country":"Sweden"
+  },
+  "VCE": {
+    "airport":"Venice",
+    "country":"Italy"
+  },
+  "VCT": {
+    "airport":"Victoria, TX",
+    "country":"USA"
+  },
+  "VDZ": {
+    "airport":"Valdez, AK",
+    "country":"USA"
+  },
+  "VER": {
+    "airport":"Veracruz",
+    "country":"Mexico"
+  },
+  "VGO": {
+    "airport":"Vigo",
+    "country":"Spain"
+  },
+  "VHM": {
+    "airport":"Vilhelmina",
+    "country":"Sweden"
+  },
+  "VIE": {
+    "airport":"Vienna",
+    "country":"Austria"
+  },
+  "VII": {
+    "airport":"Vinh City",
+    "country":"Vietnam"
+  },
+  "VIS": {
+    "airport":"Visalia, CA",
+    "country":"USA"
+  },
+  "VIT": {
+    "airport":"Vitoria",
+    "country":"Spain"
+  },
+  "VKG": {
+    "airport":"Rach Gia",
+    "country":"Vietnam"
+  },
+  "VKO": {
+    "airport":"Moscow",
+    "country":"Russia"
+  },
+  "VLC": {
+    "airport":"Valencia",
+    "country":"Spain"
+  },
+  "VLD": {
+    "airport":"Valdosta, GA",
+    "country":"USA"
+  },
+  "VLI": {
+    "airport":"Port Vila, Efate Island",
+    "country":"Vanuatu"
+  },
+  "VLL": {
+    "airport":"Valladolid",
+    "country":"Spain"
+  },
+  "VNO": {
+    "airport":"Vilnius",
+    "country":"Lithuania"
+  },
+  "VNS": {
+    "airport":"Varanasi",
+    "country":"India"
+  },
+  "VOG": {
+    "airport":"Volgograd",
+    "country":"Russia"
+  },
+  "VPS": {
+    "airport":"Fort Walton Beach, FL",
+    "country":"USA"
+  },
+  "VQS": {
+    "airport":"Vieques",
+    "country":"Puerto Rico"
+  },
+  "VRN": {
+    "airport":"Verona",
+    "country":"Italy"
+  },
+  "VSA": {
+    "airport":"Villahermosa",
+    "country":"Mexico"
+  },
+  "VSF": {
+    "airport":"Springfield, VT",
+    "country":"USA"
+  },
+  "VSG": {
+    "airport":"Lugansk",
+    "country":"Ukraine"
+  },
+  "VST": {
+    "airport":"Vasteras",
+    "country":"Sweden"
+  },
+  "VTE": {
+    "airport":"Vientiane",
+    "country":"Laos"
+  },
+  "VVO": {
+    "airport":"Vladivostok, Siberia",
+    "country":"Russia"
+  },
+  "VXO": {
+    "airport":"Vaxjo",
+    "country":"Sweden"
+  },
+  "": {
+    "airport":"W top",
+    "country":""
+  },
+  "WAG": {
+    "airport":"Wanganui",
+    "country":"New Zealand"
+  },
+  "WAS - All Airports": {
+    "airport":"Washington DC",
+    "country":"USA"
+  },
+  "WAW": {
+    "airport":"Warsaw",
+    "country":"Poland"
+  },
+  "WDG": {
+    "airport":"Enid, OK",
+    "country":"USA"
+  },
+  "WEI": {
+    "airport":"Weipa, Qld.",
+    "country":"Australia"
+  },
+  "WGA": {
+    "airport":"Wagga-Wagga, N.S.W.",
+    "country":"Australia"
+  },
+  "WHK": {
+    "airport":"Whakatane",
+    "country":"New Zealand"
+  },
+  "WIC": {
+    "airport":"Wick",
+    "country":"Scotland"
+  },
+  "WLG": {
+    "airport":"Wellington",
+    "country":"New Zealand"
+  },
+  "WRE": {
+    "airport":"Whangarei",
+    "country":"New Zealand"
+  },
+  "WRG": {
+    "airport":"Wrangell, AK",
+    "country":"USA"
+  },
+  "WRL": {
+    "airport":"Worland, WY",
+    "country":"USA"
+  },
+  "WRO": {
+    "airport":"Wroclaw",
+    "country":"Poland"
+  },
+  "WSZ": {
+    "airport":"Westport",
+    "country":"New Zealand"
+  },
+  "WUH": {
+    "airport":"Wuhan",
+    "country":"China"
+  },
+  "WYA": {
+    "airport":"Whyalla, S.A.",
+    "country":"Australia"
+  },
+  "WYS": {
+    "airport":"West Yellowstone, MT",
+    "country":"USA"
+  },
+  "": {
+    "airport":"X top",
+    "country":""
+  },
+  "XIC": {
+    "airport":"Xichang",
+    "country":"China"
+  },
+  "XIY": {
+    "airport":"Xi'an",
+    "country":"China"
+  },
+  "XMN": {
+    "airport":"Xiamen",
+    "country":"China"
+  },
+  "XNA": {
+    "airport":"Fayetteville, AR",
+    "country":"USA"
+  },
+  "XRY": {
+    "airport":"Jerez de La Frontera",
+    "country":"Spain"
+  },
+  "": {
+    "airport":"Y top",
+    "country":""
+  },
+  "YAA": {
+    "airport":"Anahim Lake, BC",
+    "country":"Canada"
+  },
+  "YAK": {
+    "airport":"Yakutat, AK",
+    "country":"USA"
+  },
+  "YAM": {
+    "airport":"Sault Ste. Marie, ON",
+    "country":"Canada"
+  },
+  "YAO": {
+    "airport":"Yaounde",
+    "country":"Cameroon"
+  },
+  "YAP": {
+    "airport":"Yap",
+    "country":"Micronesia"
+  },
+  "YBC": {
+    "airport":"Baie-Comeau, PQ",
+    "country":"Canada"
+  },
+  "YBG": {
+    "airport":"Bagotville, PQ",
+    "country":"Canada"
+  },
+  "YBL": {
+    "airport":"Campbell River, BC",
+    "country":"Canada"
+  },
+  "YCD": {
+    "airport":"Nanaimo, BC",
+    "country":"Canada"
+  },
+  "YCG": {
+    "airport":"Castlegar, BC",
+    "country":"Canada"
+  },
+  "YDF": {
+    "airport":"Deer Lake, NF",
+    "country":"Canada"
+  },
+  "YEG": {
+    "airport":"Edmonton, AB",
+    "country":"Canada"
+  },
+  "YEK": {
+    "airport":"Arviat, NWT",
+    "country":"Canada"
+  },
+  "YFB": {
+    "airport":"Iqaluit, Nunavut",
+    "country":"Canada"
+  },
+  "YFC": {
+    "airport":"Fredericton, NB",
+    "country":"Canada"
+  },
+  "YFO": {
+    "airport":"Flin Flon, MB",
+    "country":"Canada"
+  },
+  "YGK": {
+    "airport":"Kingston, ON",
+    "country":"Canada"
+  },
+  "YGP": {
+    "airport":"Gaspe, PQ",
+    "country":"Canada"
+  },
+  "YGR": {
+    "airport":"Cap-aux-Meules, Magdalens Islands, PQ",
+    "country":"Canada"
+  },
+  "YHD": {
+    "airport":"Dryden, ON",
+    "country":"Canada"
+  },
+  "YHM": {
+    "airport":"Hamilton, ON",
+    "country":"Canada"
+  },
+  "YHZ": {
+    "airport":"Halifax, NS",
+    "country":"Canada"
+  },
+  "YKA": {
+    "airport":"Kamloops, BC",
+    "country":"Canada"
+  },
+  "YKM": {
+    "airport":"Yakima, WA",
+    "country":"USA"
+  },
+  "YLW": {
+    "airport":"Kelowna, BC",
+    "country":"Canada"
+  },
+  "YMM": {
+    "airport":"Fort McMurray, AB",
+    "country":"Canada"
+  },
+  "YMQ - All Airports": {
+    "airport":"Montreal, PQ",
+    "country":"Canada"
+  },
+  "YMT": {
+    "airport":"Chibougamau, PQ",
+    "country":"Canada"
+  },
+  "YNJ": {
+    "airport":"Yanji",
+    "country":"China"
+  },
+  "YNT": {
+    "airport":"Yantai",
+    "country":"China"
+  },
+  "YNY": {
+    "airport":"Yangyang, Korea",
+    "country":"Republic of"
+  },
+  "YOW": {
+    "airport":"Ottawa, ON",
+    "country":"Canada"
+  },
+  "YPR": {
+    "airport":"Prince Rupert, BC",
+    "country":"Canada"
+  },
+  "YPW": {
+    "airport":"Powell River, BC",
+    "country":"Canada"
+  },
+  "YQB": {
+    "airport":"Quebec, PQ",
+    "country":"Canada"
+  },
+  "YQG": {
+    "airport":"Windsor, ON",
+    "country":"Canada"
+  },
+  "YQK": {
+    "airport":"Kenora, ON",
+    "country":"Canada"
+  },
+  "YQL": {
+    "airport":"Lethbridge, AB",
+    "country":"Canada"
+  },
+  "YQM": {
+    "airport":"Moncton, NB",
+    "country":"Canada"
+  },
+  "YQR": {
+    "airport":"Regina, SK",
+    "country":"Canada"
+  },
+  "YQT": {
+    "airport":"Thunder Bay, ON",
+    "country":"Canada"
+  },
+  "YQU": {
+    "airport":"Grande Prairie, AB",
+    "country":"Canada"
+  },
+  "YQX": {
+    "airport":"Gander, NF",
+    "country":"Canada"
+  },
+  "YQY": {
+    "airport":"Sydney, Cape Breton Island, NS",
+    "country":"Canada"
+  },
+  "YQZ": {
+    "airport":"Quesnel, BC",
+    "country":"Canada"
+  },
+  "YRJ": {
+    "airport":"Roberval, PQ",
+    "country":"Canada"
+  },
+  "YRL": {
+    "airport":"Red Lake, ON",
+    "country":"Canada"
+  },
+  "YRT": {
+    "airport":"Rankin Inlet, NWT",
+    "country":"Canada"
+  },
+  "YSB": {
+    "airport":"Sudbury, ON",
+    "country":"Canada"
+  },
+  "YSJ": {
+    "airport":"Saint John, NB",
+    "country":"Canada"
+  },
+  "YSM": {
+    "airport":"Fort Smith, NWT",
+    "country":"Canada"
+  },
+  "YTH": {
+    "airport":"Thompson, MB",
+    "country":"Canada"
+  },
+  "YTO - All Airports": {
+    "airport":"Toronto, ON",
+    "country":"Canada"
+  },
+  "YTS": {
+    "airport":"Timmins, ON",
+    "country":"Canada"
+  },
+  "YTZ": {
+    "airport":"Toronto, ON",
+    "country":"Canada"
+  },
+  "YUL": {
+    "airport":"Montreal, PQ",
+    "country":"Canada"
+  },
+  "YUM": {
+    "airport":"Yuma, AZ",
+    "country":"USA"
+  },
+  "YUY": {
+    "airport":"Rouyn-Noranda, PQ",
+    "country":"Canada"
+  },
+  "YVO": {
+    "airport":"Val-d'Or, PQ",
+    "country":"Canada"
+  },
+  "YVR": {
+    "airport":"Vancouver, BC",
+    "country":"Canada"
+  },
+  "YWG": {
+    "airport":"Winnipeg, MB",
+    "country":"Canada"
+  },
+  "YWK": {
+    "airport":"Wabush, Labrador, NF",
+    "country":"Canada"
+  },
+  "YWL": {
+    "airport":"Williams Lake, BC",
+    "country":"Canada"
+  },
+  "YXC": {
+    "airport":"Cranbrook, BC",
+    "country":"Canada"
+  },
+  "YXE": {
+    "airport":"Saskatoon, SK",
+    "country":"Canada"
+  },
+  "YXH": {
+    "airport":"Medicine Hat, AB",
+    "country":"Canada"
+  },
+  "YXJ": {
+    "airport":"Fort Saint John, BC",
+    "country":"Canada"
+  },
+  "YXL": {
+    "airport":"Sioux Lookout, ON",
+    "country":"Canada"
+  },
+  "YXS": {
+    "airport":"Prince George, BC",
+    "country":"Canada"
+  },
+  "YXT": {
+    "airport":"Terrace, BC",
+    "country":"Canada"
+  },
+  "YXU": {
+    "airport":"London, ON",
+    "country":"Canada"
+  },
+  "YXX": {
+    "airport":"Abbotsford, BC",
+    "country":"Canada"
+  },
+  "YXY": {
+    "airport":"Whitehorse, YT",
+    "country":"Canada"
+  },
+  "YYB": {
+    "airport":"North Bay, ON",
+    "country":"Canada"
+  },
+  "YYC": {
+    "airport":"Calgary, AB",
+    "country":"Canada"
+  },
+  "YYD": {
+    "airport":"Smithers, BC",
+    "country":"Canada"
+  },
+  "YYE": {
+    "airport":"Fort Nelson, BC",
+    "country":"Canada"
+  },
+  "YYF": {
+    "airport":"Penticton, BC",
+    "country":"Canada"
+  },
+  "YYG": {
+    "airport":"Charlottetown, PEI",
+    "country":"Canada"
+  },
+  "YYJ": {
+    "airport":"Victoria, BC",
+    "country":"Canada"
+  },
+  "YYQ": {
+    "airport":"Churchill, MB",
+    "country":"Canada"
+  },
+  "YYT": {
+    "airport":"St. John's, NF",
+    "country":"Canada"
+  },
+  "YYY": {
+    "airport":"Mont-Joli, PQ",
+    "country":"Canada"
+  },
+  "YYZ": {
+    "airport":"Toronto, ON",
+    "country":"Canada"
+  },
+  "YZF": {
+    "airport":"Yellowknife, NWT",
+    "country":"Canada"
+  },
+  "YZP": {
+    "airport":"Sandspit, Queen Charlotte Islands, BC",
+    "country":"Canada"
+  },
+  "YZR": {
+    "airport":"Sarnia, ON",
+    "country":"Canada"
+  },
+  "YZT": {
+    "airport":"Port Hardy, BC",
+    "country":"Canada"
+  },
+  "YZV": {
+    "airport":"Sept-Iles, PQ",
+    "country":"Canada"
+  },
+  "": {
+    "airport":"Z top",
+    "country":""
+  },
+  "ZAD": {
+    "airport":"Zadar",
+    "country":"Croatia"
+  },
+  "ZAG": {
+    "airport":"Zagreb",
+    "country":"Croatia"
+  },
+  "ZAL": {
+    "airport":"Valdivia",
+    "country":"Chile"
+  },
+  "ZAM": {
+    "airport":"Zamboanga",
+    "country":"Philippines"
+  },
+  "ZAZ": {
+    "airport":"Zaragoza",
+    "country":"Spain"
+  },
+  "ZCL": {
+    "airport":"Zacatecas",
+    "country":"Mexico"
+  },
+  "ZCO": {
+    "airport":"Temuco",
+    "country":"Chile"
+  },
+  "ZIH": {
+    "airport":"Ixtapa",
+    "country":"Mexico"
+  },
+  "ZLO": {
+    "airport":"Manzanillo",
+    "country":"Mexico"
+  },
+  "ZNE": {
+    "airport":"Newman, W.A.",
+    "country":"Australia"
+  },
+  "ZNZ": {
+    "airport":"Zanzibar",
+    "country":"Tanzania"
+  },
+  "ZOS": {
+    "airport":"Osorno",
+    "country":"Chile"
+  },
+  "ZPC": {
+    "airport":"Pucon",
+    "country":"Chile"
+  },
+  "ZQN": {
+    "airport":"Queenstown",
+    "country":"New Zealand"
+  },
+  "ZRH": {
+    "airport":"Zurich",
+    "country":"Switzerland"
+  },
+  "ZSA": {
+    "airport":"Cockburn Town, San Salvador Island",
+    "country":"Bahamas"
+  },
+  "ZSE": {
+    "airport":"Saint-Pierre",
+    "country":"Reunion"
+  }
+}
