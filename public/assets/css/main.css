@@ -62,6 +62,12 @@ textarea.code {
   color: #eee;
   background-color: #000080;
 }
+.dataset-lang label.dart {
+  background-color: #55DDCA;
+}
+.dataset-lang label.dart.active {
+  background-color: #00D2B8;
+}
 
 
 .dataset-result {
