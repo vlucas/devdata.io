@@ -80,7 +80,7 @@ block append js
 
     // Fetch (AND UPDATE HTML)
     function fetchDataset(dataset, lang) {
-      resultEl.find('.code').removeClass('language-' + (userLang == 'json' ? 'javascript' : userLang))
+      resultEl.find('.code').removeClass((userLang == 'json' ? 'javascript' : userLang))
 
       // Store last requested dataset + lang
       userDataset = dataset;
@@ -101,15 +101,14 @@ block append js
     // Update HTML based on given JSON response
     function updateDatasetHTML(json) {
       resultEl.find('.message').html('');
-      resultEl.find('.code').addClass('language-' + (userLang == 'json' ? 'javascript' : userLang)).html(json.data);
+      resultEl.find('.code').addClass((userLang == 'json' ? 'javascript' : userLang)).html(json.data);
 
       // Don't syntax highlight on mobile - it's too slow, esp. for the large currency dataset (heck, it's even slow on desktop)
-      if (!isMobile() && userLang !== 'lua') {
+      if (!isMobile()) {
         // Re-run code highlighting
         showLoadingIndicator('Formatting...');
-        Prism.highlightElement(resultEl.find('.code').get(0), true, function () {
-          hideLoadingIndicator();
-        });
+        hljs.highlightBlock(resultEl.find('.code').get(0));
+        hideLoadingIndicator();
       } else {
         hideLoadingIndicator();
       }
