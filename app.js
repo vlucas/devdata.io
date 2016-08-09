@@ -28,7 +28,9 @@ var datasets = {
   'currencies': 'World Currencies',
   'timezones': 'World Time Zones',
   'airport-codes': 'International Airport Codes',
-  'http-status-codes': 'HTTP Status Codes'
+  'http-status-codes': 'HTTP Status Codes',
+  'apache-mime-types': 'Apache MIME Types',
+  'html-elements': 'HTML Elements'
 };
 
 /**
