@@ -24,6 +24,7 @@ var supportedFormats = {
 var datasets = {
   'states': 'U.S. States',
   'canadian-provinces': 'Canadian Provinces',
+  'indian-states': 'Indian States',
   'countries': 'World Countries',
   'currencies': 'World Currencies',
   'timezones': 'World Time Zones',
