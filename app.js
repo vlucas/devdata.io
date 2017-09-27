@@ -29,6 +29,7 @@ var datasets = {
   'countries': 'World Countries',
   'currencies': 'World Currencies',
   'timezones': 'World Time Zones',
+  'calling-codes': 'International Calling Codes',
   'airport-codes': 'International Airport Codes',
   'http-status-codes': 'HTTP Status Codes',
   'languages': 'International Language Codes'
